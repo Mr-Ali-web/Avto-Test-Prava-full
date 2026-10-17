@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "topic": "Svetofor",
+    "text": "Qizil svetofor signali nimani anglatadi?",
+    "options": [
+      "Harakatlanish taqiqlanadi",
+      "Tezlikni oshirib o'tish mumkin",
+      "Faqat o'ngga burilish mumkin"
+    ],
+    "answer": 0,
+    "explain": "Qizil signal harakatlanishni taqiqlaydi: to'xtash chizig'i oldida to'xtash kerak.",
+    "image": "q1.png"
+  },
+  {
+    "id": 2,
+    "topic": "Umumiy qoidalar",
+    "text": "Haydovchi harakatlanish vaqtida xavfsizlik kamarini taqishi shartmi?",
+    "options": [
+      "Ha, shart",
+      "Faqat shahar tashqarisida",
+      "Faqat tungi vaqtda"
+    ],
+    "answer": 0,
+    "explain": "Xavfsizlik kamari hayotingizni saqlaydi, shuning uchun uni doim taqing."
+  },
+  {
+    "id": 3,
+    "topic": "Yo'l belgilari",
+    "text": "«STOP» belgisi o'rnatilgan joyda haydovchi nima qilishi kerak?",
+    "options": [
+      "To'liq to'xtashi shart",
+      "Tezlikni pasaytirib to'xtamay o'tishi mumkin",
+      "Signal berib o'tib ketishi mumkin"
+    ],
+    "answer": 0,
+    "explain": "«STOP» belgisida harakatni to'liq to'xtatmasdan davom ettirish mumkin emas.",
+    "image": "q3.png"
+  },
+  {
+    "id": 4,
+    "topic": "Umumiy qoidalar",
+    "text": "Spirtli ichimlik ichgan holda transport vositasini boshqarish mumkinmi?",
+    "options": [
+      "Yo'q, taqiqlanadi",
+      "Oz miqdorda mumkin",
+      "Faqat kunduzi mumkin"
+    ],
+    "answer": 0,
+    "explain": "Mast holatda haydash qat'iyan taqiqlanadi va juda xavfli."
+  },
+  {
+    "id": 5,
+    "topic": "Piyodalar",
+    "text": "Piyodalar o'tish joyiga yaqinlashganda yo'lni kesib o'tayotgan piyoda bo'lsa, haydovchi nima qiladi?",
+    "options": [
+      "Piyodaga yo'l beradi",
+      "Signal berib o'tib ketadi",
+      "Tezlikni oshiradi"
+    ],
+    "answer": 0,
+    "explain": "Piyodalar o'tish joyida piyodaga yo'l berish haydovchining majburiyati."
+  },
+  {
+    "id": 6,
+    "topic": "Umumiy qoidalar",
+    "text": "Yo'l harakati qoidalarini bilmaslik haydovchini javobgarlikdan ozod qiladimi?",
+    "options": [
+      "Yo'q, ozod qilmaydi",
+      "Ha, ozod qiladi",
+      "Faqat birinchi marta"
+    ],
+    "answer": 0,
+    "explain": "Qoidalarni bilish har bir haydovchining burchi."
+  },
+  {
+    "id": 7,
+    "topic": "Yo'l belgilari",
+    "text": "Ogohlantiruvchi belgilar odatda qanday ko'rinishda bo'ladi?",
+    "options": [
+      "Qizil hoshiyali uchburchak",
+      "Ko'k doira",
+      "Sariq kvadrat"
+    ],
+    "answer": 0,
+    "explain": "Ogohlantiruvchi belgilar qizil hoshiyali uchburchak shaklida bo'ladi.",
+    "image": "q7.png"
+  }
+]

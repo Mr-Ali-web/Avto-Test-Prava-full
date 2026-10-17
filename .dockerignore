@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+security.json
+*.db
+storage/
+venv/
+__pycache__/
+.claude/
+.git/
+*.zip

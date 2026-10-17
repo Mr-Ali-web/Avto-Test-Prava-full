@@ -1,0 +1,16 @@
+# Docker ishlatmasangiz: /etc/systemd/system/pravaga-bot.service sifatida nusxalang
+[Unit]
+Description=Pravaga Baza Telegram bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=pravaga
+WorkingDirectory=/opt/pravaga_bot
+ExecStart=/opt/pravaga_bot/venv/bin/python bot.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

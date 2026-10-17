@@ -1,0 +1,3807 @@
+[
+ {
+  "id": 1001,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "Transport vositasi egasining fuqarolik javobgarligini majburiy sug'urta qilish polisi qanday ko'rinishda bo'lishi mumkin?",
+  "options": [
+   "Faqat qog'oz ko'rinishida",
+   "Faqat sug'urta kompaniyasi ofisida saqlanadi",
+   "Elektron ko'rinishda ham"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 7-band",
+  "status": "draft"
+ },
+ {
+  "id": 1002,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "DYHXX xodimlari planshet orqali quyidagilardan qaysi birini tekshiradi?",
+  "options": [
+   "Haydovchining oilaviy ahvolini",
+   "Avtomaktab bitiruv diplomini",
+   "Transport vositasining texnik ko'rikdan o'tganligi to'g'risidagi ma'lumotni",
+   "Haydovchining ish haqi haqidagi ma'lumotni"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 7-band",
+  "status": "draft"
+ },
+ {
+  "id": 1003,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "Haydovchining yonida biometrik pasport yoki ID-karta bo'lsa, uning haydovchilik guvohnomasi va transport vositasi hujjatlari qanday tekshiriladi?",
+  "options": [
+   "Planshet orqali tekshiriladi",
+   "Faqat qog'oz nusxalari bo'yicha tekshiriladi",
+   "Umuman tekshirilmaydi"
+  ],
+  "answer": 0,
+  "explain": "Planshetda aniqlash imkoni bo'lmagan va favqulodda holatlar bundan mustasno.",
+  "source": "YHQ, 7-band",
+  "status": "draft"
+ },
+ {
+  "id": 1004,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "«B» toifasi ruxsat etilgan to'liq vazni qancha kilogrammdan oshmaydigan avtotransport vositalarini boshqarish huquqini beradi?",
+  "options": [
+   "2 500 kg",
+   "4 500 kg",
+   "3 500 kg",
+   "7 500 kg"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 8-band",
+  "status": "draft"
+ },
+ {
+  "id": 1005,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "«C» toifasi ruxsat etilgan to'liq vazni qancha kilogrammdan ortiq bo'lgan avtotransport vositalarini boshqarish huquqini beradi?",
+  "options": [
+   "3 500 kg",
+   "4 500 kg",
+   "2 500 kg",
+   "7 500 kg"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 8-band",
+  "status": "draft"
+ },
+ {
+  "id": 1006,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "«D» toifasi qanday transport vositalarini boshqarish huquqini beradi?",
+  "options": [
+   "Faqat mototsikllarni",
+   "Yo'lovchi tashishga mo'ljallangan, haydovchi o'rindig'idan tashqari o'rindiqlar soni sakkiztadan ortiq bo'lgan avtotransport vositalarini",
+   "Ruxsat etilgan to'liq vazni 3 500 kg gacha bo'lgan yuk avtomobillarini"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 8-band",
+  "status": "draft"
+ },
+ {
+  "id": 1007,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "«A» toifasi qaysi transport vositalarini boshqarish huquqini beradi?",
+  "options": [
+   "Faqat velosipedlarni",
+   "Yo'lovchi tashiydigan avtobuslarni",
+   "Ruxsat etilgan to'liq vazni 3 500 kg gacha bo'lgan avtomobillarni",
+   "Mototsikllar va elektromototsikllarni"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 8-band",
+  "status": "draft"
+ },
+ {
+  "id": 1008,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "Xavfsizlik kamari nazarda tutilgan transport vositasida haydovchi va old o'rindiqdagi yo'lovchilar kamarni qachon taqib olishlari shart?",
+  "options": [
+   "Tezlik soatiga 60 km dan oshganda",
+   "Harakatni boshlashdan oldin",
+   "Aholi punktidan chiqqandan keyin",
+   "Faqat tungi vaqtda"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 9-band",
+  "status": "draft"
+ },
+ {
+  "id": 1009,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "Mototsikl, moped va skuterda harakatlanayotgan haydovchi hamda yo'lovchilar nima qilishlari shart?",
+  "options": [
+   "Faqat shahar tashqarisida motoshlem kiyishlari",
+   "Motoshlem tavsiya etiladi, lekin majburiy emas",
+   "Maxsus motoshlem kiyib, uni qadab olishlari shart"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 9-band",
+  "status": "draft"
+ },
+ {
+  "id": 1010,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Haydovchi yo'lga chiqishdan oldin nimani tekshirishi shart?",
+  "options": [
+   "Yo'l bo'yidagi shoxobchalar ishlashini",
+   "Transport vositasining texnik sozligini, tozaligini va to'liq jihozlanganligini",
+   "Faqat salon tozaligini"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 11-band",
+  "status": "draft"
+ },
+ {
+  "id": 1011,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Harakatlanishni boshlashdan oldin haydovchi nimaga ishonch hosil qilishi shart?",
+  "options": [
+   "Yo'lovchilar joylarini egallaganiga va transport vositasining eshiklari yopilganiga",
+   "Yo'lovchilar yoqilg'i uchun to'lov qilganiga",
+   "Yo'lovchilar telefonlarini o'chirganiga"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 11-band",
+  "status": "draft"
+ },
+ {
+  "id": 1012,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Qorong'i vaqtda majburiy to'xtagan haydovchi ta'mirlash uchun qatnov qismiga chiqishdan oldin nima qilishi kerak?",
+  "options": [
+   "Hech qanday qo'shimcha chora ko'rmasligi",
+   "Nur qaytargichli maxsus jilet kiyib olishi",
+   "Transport vositasining faralarini o'chirishi"
+  ],
+  "answer": 1,
+  "explain": "Bu talab yengil va yuk avtomobili, avtobus va g'ildirakli traktorlar haydovchilariga taalluqli.",
+  "source": "YHQ, 11-band",
+  "status": "draft"
+ },
+ {
+  "id": 1013,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "IIO xodimlari talab qilganda haydovchi nimadan o'tishi shart?",
+  "options": [
+   "Mastlik holatini aniqlovchi maxsus tekshiruvdan yoki tibbiy tekshiruvdan",
+   "Yo'l harakati qoidalari bo'yicha og'zaki imtihondan",
+   "Faqat ko'z tekshiruvidan"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 11-band",
+  "status": "draft"
+ },
+ {
+  "id": 1014,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Haydovchi yo'lovchilarni nimadan ogohlantirishi shart?",
+  "options": [
+   "Salonda gaplashish taqiqlanganligidan",
+   "Harakatlanayotgan vaqtda salondan tana qismlarini (qo'ldan tashqari) chiqarish taqiqlanganligidan",
+   "Salonda ovqatlanish taqiqlanganligidan"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 11-band",
+  "status": "draft"
+ },
+ {
+  "id": 1015,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Quyidagi holatlardan qaysi birida transport vositasini boshqarish taqiqlanadi?",
+  "options": [
+   "Yo'lovchilar bilan birga harakatlanganda",
+   "Sutkaning yorug' vaqtida yaqinni yorituvchi faralar yoqilganda",
+   "Yo'l harakati xavfsizligiga tahdid soladigan charchoqlik yoki betoblik holatida"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 12-band",
+  "status": "draft"
+ },
+ {
+  "id": 1016,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Transport vositasini boshqarish paytida telefondan foydalanishga qanday holatda ruxsat etiladi?",
+  "options": [
+   "Quloqchin yoki qo'llarni ishlatmasdan gaplashish imkonini beradigan boshqa uskunalar orqali",
+   "Tezlik soatiga 40 km dan past bo'lganda",
+   "Qo'lda ushlab, qisqa gaplashish uchun"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 12-band",
+  "status": "draft"
+ },
+ {
+  "id": 1017,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Salonning old qismiga o'rnatilgan monitorda tele- yoki video dasturlarni tomosha qilish haydovchiga nisbatan qanday?",
+  "options": [
+   "Boshqarish paytida taqiqlanadi",
+   "Doim ruxsat etiladi",
+   "Faqat aholi punktidan tashqarida ruxsat etiladi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 12-band",
+  "status": "draft"
+ },
+ {
+  "id": 1018,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Transport vositasiga ratsiya yoki sirena kabi maxsus texnik jihozlarni o'rnatish qachon taqiqlanadi?",
+  "options": [
+   "Tegishli ruxsat bo'lmaganda",
+   "Faqat aholi punktlarida",
+   "Faqat tungi vaqtda"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 12-band",
+  "status": "draft"
+ },
+ {
+  "id": 1019,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Quyidagi nosozliklardan qaysi biri mavjud bo'lganda transport vositasini boshqarish taqiqlanadi?",
+  "options": [
+   "Magnitola ishlamasa",
+   "Salon chirog'i yonmasa",
+   "Konditsioner ishlamasa",
+   "Tormoz tizimi yoki rul boshqaruvi ishlamasa"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 12-band",
+  "status": "draft"
+ },
+ {
+  "id": 1020,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Yomg'ir yoki qor yog'ayotgan vaqtda qaysi nosozlik bilan transport vositasini boshqarish taqiqlanadi?",
+  "options": [
+   "Radiopriyomnik ishlamasa",
+   "Salon isitgichi ishlamasa",
+   "Oyna tozalagich ishlamasa"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 12-band",
+  "status": "draft"
+ },
+ {
+  "id": 1021,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Aholi punktlarida magnitofon va boshqa ovoz chiqaruvchi apparaturalardan foydalanish qanday?",
+  "options": [
+   "Umuman foydalanish taqiqlanadi",
+   "Belgilangan me'yordan baland ovozda foydalanish taqiqlanadi",
+   "Hech qanday cheklov yo'q"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 12-band",
+  "status": "draft"
+ },
+ {
+  "id": 1022,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Xavfsizlik kamari nazarda tutilgan transport vositasini haydovchining o'zi kamar taqmagan holda boshqarishi:",
+  "options": [
+   "Tezlik soatiga 60 km dan past bo'lsa ruxsat etiladi",
+   "Shahar ichida ruxsat etiladi",
+   "Taqiqlanadi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 12-band",
+  "status": "draft"
+ },
+ {
+  "id": 1023,
+  "topic": "Yo'l-transport hodisasi",
+  "text": "YTH sodir bo'lganda unga daxldor haydovchi dastlab nima qilishi shart?",
+  "options": [
+   "Transport vositasini darhol to'xtatishi, avariya ishorasini yoqishi va avariya sababli to'xtash belgisini o'rnatishi",
+   "Hodisa joyini tezda tark etishi",
+   "Transport vositasi va buyumlarni darhol boshqa joyga olib qo'yishi",
+   "Faqat sug'urta kompaniyasiga xabar berishi"
+  ],
+  "answer": 0,
+  "explain": "Transport vositasini va hodisaga daxldor buyumlarni joyidan qo'zg'atmasligi kerak. Boshqalarga to'sqinlik qilsa, avval holatni qayd etib, keyin qatnov qismini bo'shatadi.",
+  "source": "YHQ, 13-band",
+  "status": "draft"
+ },
+ {
+  "id": 1024,
+  "topic": "Yo'l-transport hodisasi",
+  "text": "YTH da tan jarohati olganlarga nisbatan haydovchi nima qilishi shart?",
+  "options": [
+   "Faqat guvohlarning ismini yozib olishi",
+   "Ularni o'z holiga qoldirib ketishi",
+   "Birinchi tibbiy yordam ko'rsatish choralarini ko'rishi, tez tibbiy yordam va favqulodda qutqaruv xizmatlarini chaqirishi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 13-band",
+  "status": "draft"
+ },
+ {
+  "id": 1025,
+  "topic": "Yo'l-transport hodisasi",
+  "text": "YTH sodir bo'lganda haydovchi hodisa haqida kimga xabar berishi va nimani kutishi shart?",
+  "options": [
+   "Faqat qarindoshlariga xabar berishi",
+   "Hech kimga xabar bermasdan ketishi",
+   "IIOga xabar berishi, guvohlarning ism-familiyasi va manzilini yozib olib, IIO xodimlarining kelishini kutishi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 13-band",
+  "status": "draft"
+ },
+ {
+  "id": 1026,
+  "topic": "Yo'l-transport hodisasi",
+  "text": "Majburiy sug'urta bo'yicha YTH haqidagi xabarnoma tuzilgan hollarda haydovchi:",
+  "options": [
+   "Hodisa joyida 24 soat kutishi shart",
+   "Baribir DYHXX ga xabar berishi shart",
+   "DYHXX yoki IIO xodimlariga hodisa haqida xabar bermasligi mumkin"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 14-band",
+  "status": "draft"
+ },
+ {
+  "id": 1027,
+  "topic": "Piyodalar",
+  "text": "Piyodalar qayerdan harakatlanishlari kerak?",
+  "options": [
+   "Doim qatnov qismining o'rtasidan",
+   "Doim qatnov qismining chap chetidan",
+   "Faqat velosiped yo'lkasidan",
+   "Trotuar, piyodalar yo'lkasi, piyoda va velosiped yo'lkalaridan, ular bo'lmaganda yo'l yoqalaridan"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 15-band",
+  "status": "draft"
+ },
+ {
+  "id": 1028,
+  "topic": "Piyodalar",
+  "text": "Trotuar va yo'l yoqasi bo'lmaganda qatnov qismi chetida harakatlanayotgan piyodalar qaysi yo'nalishda yurishlari kerak?",
+  "options": [
+   "Transport vositalarining harakatlanishiga qarama-qarshi yo'nalishda",
+   "Qatnov qismining o'rtasi bo'ylab",
+   "Transport vositalari bilan bir yo'nalishda"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 15-band",
+  "status": "draft"
+ },
+ {
+  "id": 1029,
+  "topic": "Piyodalar",
+  "text": "Velosiped yoki mototsiklni yetaklab ketayotgan shaxslar qatnov qismi chetida qaysi yo'nalishda yurishlari kerak?",
+  "options": [
+   "Transport vositalarining harakatlanish yo'nalishi bo'ylab",
+   "Transport vositalariga qarama-qarshi yo'nalishda",
+   "Qatnov qismining o'rtasida"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 15-band",
+  "status": "draft"
+ },
+ {
+  "id": 1030,
+  "topic": "Piyodalar",
+  "text": "Piyodalarning tashkiliy jamlanmasi qatnov qismida bir qatorda nechta kishidan ortiq bo'lmasligi kerak?",
+  "options": [
+   "Olti kishidan",
+   "Sakkiz kishidan",
+   "Ikki kishidan",
+   "To'rt kishidan"
+  ],
+  "answer": 3,
+  "explain": "Faqat transport harakati yo'nalishi bo'ylab, o'ng tomondan harakatlanishga ruxsat etiladi.",
+  "source": "YHQ, 16-band",
+  "status": "draft"
+ },
+ {
+  "id": 1031,
+  "topic": "Piyodalar",
+  "text": "Bolalar guruhini yo'l yoqasidan olib yurishga qachon ruxsat etiladi?",
+  "options": [
+   "Istalgan vaqtda, kuzatuvchisiz",
+   "Trotuar va piyodalar yo'lkasi bo'lmaganda, faqat sutkaning yorug' vaqtida va katta yoshdagilar kuzatuvida",
+   "Faqat sutkaning qorong'i vaqtida"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 16-band",
+  "status": "draft"
+ },
+ {
+  "id": 1032,
+  "topic": "Piyodalar",
+  "text": "Piyodalar yo'lning qatnov qismini qayerdan kesib o'tishlari kerak?",
+  "options": [
+   "Piyodalar o'tish joylaridan, shuningdek, yer osti va yer usti o'tish joylaridan",
+   "Faqat transport vositalari orasidan",
+   "Istalgan joydan"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 17-band",
+  "status": "draft"
+ },
+ {
+  "id": 1033,
+  "topic": "Piyodalar",
+  "text": "Ko'rinadigan oraliqda o'tish joyi yoki chorraha bo'lmasa, ajratuvchi mintaqasiz va to'siqsiz yo'ldan piyoda qanday o'tishi mumkin?",
+  "options": [
+   "Qatnov qismi bo'ylab diagonal yo'nalishda",
+   "Yo'lning ikki tomoni yaxshi ko'rinadigan joyidan, qatnov qismi chetiga nisbatan to'g'ri burchak ostida",
+   "Ko'rinishi cheklangan joydan, yugurib"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 17-band",
+  "status": "draft"
+ },
+ {
+  "id": 1034,
+  "topic": "Piyodalar",
+  "text": "Tartibga solinmaydigan piyodalar o'tish joyida piyoda qatnov qismiga qachon chiqishi mumkin?",
+  "options": [
+   "Darhol, haydovchi to'xtaydi deb hisoblab",
+   "Faqat guruh bo'lib",
+   "Yaqinlashayotgan transport vositalarigacha masofa va tezlikni chamalab, o'tish xavfsiz ekaniga ishonch hosil qilgach"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 19-band",
+  "status": "draft"
+ },
+ {
+  "id": 1035,
+  "topic": "Piyodalar",
+  "text": "Qatnov qismida va piyodalar o'tish joylarida harakatlanayotgan piyodalarga nima taqiqlanadi?",
+  "options": [
+   "Telefondan foydalanish, tele-video mahsulotlarni ko'rish, audio mahsulotlarni eshitish va e'tiborni chalg'itadigan boshqa elektron vositalardan foydalanish",
+   "Shoshilmasdan yurish",
+   "Qo'lida sumka ko'tarib yurish"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 19-band",
+  "status": "draft"
+ },
+ {
+  "id": 1036,
+  "topic": "Piyodalar",
+  "text": "Piyodalar to'xtab turgan avtobus va trolleybusning, shuningdek tramvayning qaysi tomonidan yo'lni kesib o'tishlari shart?",
+  "options": [
+   "Avtobus va trolleybusning oldi tomonidan",
+   "Avtobus va trolleybusning orqa tomonidan, tramvayning esa oldi tomonidan",
+   "Hammasining oldi tomonidan",
+   "Hammasining orqa tomonidan"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 19-band",
+  "status": "draft"
+ },
+ {
+  "id": 1037,
+  "topic": "Piyodalar",
+  "text": "Qatnov qismiga chiqib, o'tishga ulgurmagan piyoda qayerda to'xtashi lozim?",
+  "options": [
+   "Orqaga yugurib qaytishi shart",
+   "Qatnov qismining o'rtasida, harakatlanayotgan transport oldida",
+   "Xavfsizlik orolchasida, u bo'lmasa qarama-qarshi oqimlarni ajratuvchi chiziqda"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 20-band",
+  "status": "draft"
+ },
+ {
+  "id": 1038,
+  "topic": "Piyodalar",
+  "text": "Ko'k/qizil mayoqchali va maxsus tovushli ishorali tezkor transport vositasi yaqinlashganda piyodalar nima qilishi kerak?",
+  "options": [
+   "Tezroq yo'lni kesib o'tishga shoshilishi",
+   "Qatnov qismida to'xtab turishi",
+   "Qatnov qismidan o'tmasligi, unda harakatlanayotganlari esa yo'l berib, zudlik bilan uni bo'shatishi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 21-band",
+  "status": "draft"
+ },
+ {
+  "id": 1039,
+  "topic": "Piyodalar",
+  "text": "Yo'nalishli transport vositalarini piyodalar qayerda kutishlari kerak?",
+  "options": [
+   "Qatnov qismining chetida",
+   "Qatnov qismidan baland joylashgan kutish maydonchalarida, ular bo'lmasa trotuar yoki yo'l yoqasida",
+   "Qatnov qismining o'rtasida"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 22-band",
+  "status": "draft"
+ },
+ {
+  "id": 1040,
+  "topic": "Yo'lovchilar",
+  "text": "Yo'lovchilar transport vositasiga qachon chiqishlari va tushishlari shart?",
+  "options": [
+   "Faqat qatnov qismi tomondan",
+   "U to'liq to'xtagandan so'ng, trotuar yoki yo'l yoqasi tomondan",
+   "Harakat davomida, tezlik pasayganda"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 23-band",
+  "status": "draft"
+ },
+ {
+  "id": 1041,
+  "topic": "Yo'lovchilar",
+  "text": "Yo'lovchilarga quyidagilardan qaysi biri taqiqlanadi?",
+  "options": [
+   "Xavfsizlik kamarini taqib olish",
+   "Transport vositasi harakatlanayotgan vaqtda uning eshiklarini ochish",
+   "Transport vositasi to'liq to'xtagach tushish"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 24-band",
+  "status": "draft"
+ },
+ {
+  "id": 1042,
+  "topic": "Maxsus transport vositalari",
+  "text": "Maxsus transport vositalari boshqa ishtirokchilarga nisbatan imtiyozdan foydalanishi uchun nima yoqilgan bo'lishi shart?",
+  "options": [
+   "Faqat avariya ishorasi",
+   "Faqat yaqinni yorituvchi faralar",
+   "Ko'k yoki qizil yoxud ko'k va qizil rangli yalt-yalt etuvchi mayoqcha va maxsus tovushli ishora",
+   "Faqat zarg'aldoq mayoqcha"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 25-band",
+  "status": "draft"
+ },
+ {
+  "id": 1043,
+  "topic": "Maxsus transport vositalari",
+  "text": "Ko'k/qizil mayoqcha va tovushli ishorasi yoqilgan holda yaqinlashayotgan transport vositasiga nisbatan haydovchi nima qilishi shart?",
+  "options": [
+   "Yo'l berishi shart; bunday transport vositalarini quvib o'tish taqiqlanadi",
+   "E'tibor bermay harakatini davom ettirishi",
+   "Tezlikni oshirib, undan oldin o'tishi",
+   "Uni quvib o'tishi mumkin"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 26-band",
+  "status": "draft"
+ },
+ {
+  "id": 1044,
+  "topic": "Maxsus transport vositalari",
+  "text": "Zarg'aldoq yoki sariq rangli yalt-yalt etuvchi mayoqcha yoqilgan transport vositasi:",
+  "options": [
+   "Svetofor qizil bo'lganda ham o'tishga ruxsat beradi",
+   "Boshqa transport vositalariga nisbatan to'liq imtiyoz beradi",
+   "Imtiyoz bermaydi, boshqa ishtirokchilarni faqat xavf haqida ogohlantiradi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 28-band",
+  "status": "draft"
+ },
+ {
+  "id": 1045,
+  "topic": "Maxsus transport vositalari",
+  "text": "Maxsus transport vositalarini kuzatib kelayotgan transport vositalarida nima yoqilgan bo'lishi shart?",
+  "options": [
+   "Faqat avariya ishorasi",
+   "Uzoqni yorituvchi fara chiroqlari",
+   "Faqat orqa tuman chirog'i",
+   "Yaqinni yorituvchi fara chiroqlari"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 25-band",
+  "status": "draft"
+ },
+ {
+  "id": 1046,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Svetoforning yashil ishorasi nimani bildiradi?",
+  "options": [
+   "Harakatlanishga ruxsat beradi",
+   "Harakatlanishni taqiqlaydi",
+   "Faqat o'ngga burilishga ruxsat beradi",
+   "Ishoralar almashuvi haqida ogohlantiradi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 31-band",
+  "status": "draft"
+ },
+ {
+  "id": 1047,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Miltillovchi yashil ishora nimani bildiradi?",
+  "options": [
+   "Tartibga solinmagan chorraha borligini bildiradi",
+   "Harakatlanishni taqiqlaydi",
+   "Harakatlanishga ruxsat beradi, ta'sir vaqti tugayotganini va ko'p o'tmay taqiqlovchi ishora yonishini bildiradi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 31-band",
+  "status": "draft"
+ },
+ {
+  "id": 1048,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Sariq ishora (42-bandda ko'zda tutilgan holatlardan tashqari) nimani bildiradi?",
+  "options": [
+   "Harakatlanishni taqiqlaydi va ishoralar almashuvi haqida ogohlantiradi",
+   "Harakatlanishga to'liq ruxsat beradi",
+   "Tezlikni oshirishga ruxsat beradi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 31-band",
+  "status": "draft"
+ },
+ {
+  "id": 1049,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Miltillovchi sariq ishora nimani bildiradi?",
+  "options": [
+   "Ehtiyotkorlik choralarini ko'rgan holda harakatlanishga ruxsat beradi va tartibga solinmagan chorraha yoki piyodalar o'tish joyi borligidan xabardor qiladi",
+   "Harakatlanishni qat'iyan taqiqlaydi",
+   "Faqat velosipedchilar uchun ruxsat beradi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 31-band",
+  "status": "draft"
+ },
+ {
+  "id": 1050,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Qizil ishora, shuningdek, miltillovchi qizil ishora nimani bildiradi?",
+  "options": [
+   "Harakatlanishni taqiqlaydi",
+   "Harakatlanishga ruxsat beradi",
+   "Tezlikni kamaytirib davom ettirishga ruxsat beradi",
+   "Ehtiyotkorlik bilan harakatlanishga ruxsat beradi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 31-band",
+  "status": "draft"
+ },
+ {
+  "id": 1051,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Qizil va sariq ishoralarning bir vaqtda yonishi nimani bildiradi?",
+  "options": [
+   "Harakatlanishga ruxsat beradi",
+   "Svetofor nosozligini bildiradi",
+   "Harakatlanishni taqiqlaydi va ko'p o'tmay yashil ishora yonishi haqida axborot beradi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 31-band",
+  "status": "draft"
+ },
+ {
+  "id": 1052,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Piyoda tasviri tushirilgan svetofor ishorasi kimning harakatlanishiga ta'sir qiladi?",
+  "options": [
+   "Faqat tramvaylarga",
+   "Faqat piyodalarga",
+   "Barcha yo'l harakati ishtirokchilariga",
+   "Faqat haydovchilarga"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 34-band",
+  "status": "draft"
+ },
+ {
+  "id": 1053,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Velosiped tasviri tushirilgan svetofor ishorasi kimlarning harakatlanishiga ta'sir qiladi?",
+  "options": [
+   "Velosipedchilar va individual harakatlanish vositalarini boshqargan shaxslarga",
+   "Faqat piyodalarga",
+   "Faqat yengil avtomobillar haydovchilariga"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 34-band",
+  "status": "draft"
+ },
+ {
+  "id": 1054,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Reversiv svetoforning X-simon qizil ishorasi nimani bildiradi?",
+  "options": [
+   "Shu tasmada harakatlanishga ruxsat beradi",
+   "Tasmada tezlikni 20 km/soatgacha kamaytirishni talab qiladi",
+   "Shu tasmada harakatlanishni taqiqlaydi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 35-band",
+  "status": "draft"
+ },
+ {
+  "id": 1055,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Temir yo'l kesishmasidagi doirasimon oq rangli miltillovchi ishora nimani bildiradi?",
+  "options": [
+   "Harakatlanishni taqiqlaydi",
+   "Poyezd yaqinlashayotganini bildiradi",
+   "Transport vositalarining kesishma orqali harakatlanishiga ruxsat beradi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 37-band",
+  "status": "draft"
+ },
+ {
+  "id": 1056,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Tartibga soluvchi qo'llarini yon tomonga uzatganda yoki tushirganda, uning old va orqa tomonidan harakat qanday bo'ladi?",
+  "options": [
+   "Barcha transport vositalariga ruxsat beriladi",
+   "Faqat piyodalarga ruxsat beriladi",
+   "Barcha transport vositalari va piyodalarning harakatlanishi taqiqlanadi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 38-band",
+  "status": "draft"
+ },
+ {
+  "id": 1057,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Tartibga soluvchi qo'llarini yon tomonga uzatganda, uning chap va o'ng yon tomonidan relssiz transport vositalariga qaysi yo'nalishlarda harakatlanishga ruxsat beriladi?",
+  "options": [
+   "To'g'riga va o'ngga",
+   "Faqat to'g'riga",
+   "Barcha yo'nalishlarda",
+   "Faqat chapga"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 38-band",
+  "status": "draft"
+ },
+ {
+  "id": 1058,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Tartibga soluvchi qo'lini yuqoriga ko'targanda nima bo'ladi?",
+  "options": [
+   "Faqat piyodalarga ruxsat beriladi",
+   "42-bandda ko'rsatilgan hollardan tashqari, barcha yo'nalishlarda transport vositalari va piyodalarning harakatlanishi taqiqlanadi",
+   "Barcha yo'nalishlarda harakatlanishga ruxsat beriladi"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 38-band",
+  "status": "draft"
+ },
+ {
+  "id": 1059,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Tartibga soluvchining ishorasi svetofor ishorasiga yoki yo'l belgilariga zid bo'lsa, qaysi biriga amal qilinadi?",
+  "options": [
+   "Svetofor ishorasiga",
+   "Yo'l belgisiga",
+   "Yo'l chizig'iga",
+   "Tartibga soluvchining ishoralari va ko'rsatmalariga"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 43-band",
+  "status": "draft"
+ },
+ {
+  "id": 1060,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Svetofor ishoralari imtiyoz belgilari talablariga zid bo'lsa, haydovchilar qaysi biriga amal qilishlari kerak?",
+  "options": [
+   "Imtiyoz belgilariga",
+   "O'z xohishiga ko'ra",
+   "Svetofor ishoralariga"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 43-band",
+  "status": "draft"
+ },
+ {
+  "id": 1061,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Svetoforning ishoralari ishlamayotgan bo'lsa, haydovchi harakatni qachon davom ettirishi mumkin?",
+  "options": [
+   "Boshqa (ko'ndalang) yo'nalishdagi svetofor ishoralari ham ishlamayotganiga ishonch hosil qilgandan so'ng, xavfsizlikni ta'minlagan holda",
+   "Darhol, tezlikni oshirib",
+   "Faqat tovushli ishora berib"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 43-band",
+  "status": "draft"
+ },
+ {
+  "id": 1062,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Svetofor yoki tartibga soluvchining taqiqlovchi ishorasida haydovchi (to'xtash chizig'i mavjud bo'lsa) qayerda to'xtashi kerak?",
+  "options": [
+   "To'xtash chizig'idan o'tib, chorrahaning o'rtasida",
+   "Piyodalar o'tish joyining ichida",
+   "To'xtash chizig'i (5.33 belgisi) oldida; transport vositasining eng oldingi nuqtasi chiziq ustiga chiqib ketmasligi kerak"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 41-band",
+  "status": "draft"
+ },
+ {
+  "id": 1063,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Yashil ishoradan keyin sariq ishora yonganda, keskin tormoz bermasdan to'xtashga ulgura olmaydigan haydovchi nima qiladi?",
+  "options": [
+   "Keskin tormoz berib to'xtashi shart",
+   "Orqaga qaytishi shart",
+   "Harakatlanishni davom ettirishi mumkin"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 42-band",
+  "status": "draft"
+ },
+ {
+  "id": 1064,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Tartibga soluvchi yoki IIO xodimi haydovchidan transport vositasini to'xtatishni talab qilganda:",
+  "options": [
+   "Haydovchi harakatini davom ettirishi mumkin",
+   "Faqat kunduzi to'xtashi shart",
+   "Haydovchi ko'rsatilgan joyda to'xtashi shart"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 39-band",
+  "status": "draft"
+ },
+ {
+  "id": 1065,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Quyidagilardan qaysi biri ogohlantiruvchi ishora hisoblanadi?",
+  "options": [
+   "Radioni o'chirish",
+   "Oyna tozalagichni yoqish",
+   "Konditsionerni yoqish",
+   "Fara chiroqlarini yoqib-o'chirish"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 44-band",
+  "status": "draft"
+ },
+ {
+  "id": 1066,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Chapga burilish (qayrilib olish)ni bildiruvchi qo'l ishorasi qanday beriladi?",
+  "options": [
+   "Chap qo'lni yonga uzatish yoki o'ng qo'lni tirsakdan to'g'ri burchak ostida bukib, yuqoriga ko'tarish",
+   "Ikkala qo'lni pastga tushirish",
+   "O'ng qo'lni yonga uzatish"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 45-band",
+  "status": "draft"
+ },
+ {
+  "id": 1067,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "O'ngga burilish (qayrilib olish)ni bildiruvchi qo'l ishorasi qanday beriladi?",
+  "options": [
+   "Ikkala qo'lni yuqoriga ko'tarish",
+   "Chap qo'lni yonga uzatish",
+   "O'ng qo'lni yonga uzatish yoki chap qo'lni tirsakdan to'g'ri burchak ostida bukib, yuqoriga ko'tarish"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 45-band",
+  "status": "draft"
+ },
+ {
+  "id": 1068,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Qo'l bilan to'xtash ishorasi qanday beriladi?",
+  "options": [
+   "Chap yoki o'ng qo'lni yuqoriga ko'tarib",
+   "Qo'lni pastga tushirib",
+   "Ikkala qo'lni yonga uzatib"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 45-band",
+  "status": "draft"
+ },
+ {
+  "id": 1069,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Harakatlanishni boshlash, qayta tizilish, burilish va to'xtashdan oldin haydovchi nima qilishi shart?",
+  "options": [
+   "Hech qanday ishora bermasligi mumkin",
+   "Tegishli yo'nalishni ko'rsatuvchi yorug'lik ishoralarini yoqishi, ular bo'lmasa yoki ishlamasa qo'l bilan ishora berishi",
+   "Faqat tovushli ishora berishi"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 45-band",
+  "status": "draft"
+ },
+ {
+  "id": 1070,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Burilish ko'rsatkichi yoki qo'l ishorasi qachon berilishi kerak?",
+  "options": [
+   "Manyovr boshlangandan keyingina",
+   "Manyovrni bajarishdan oldinroq berilishi va uni tugallagach darhol to'xtatilishi",
+   "Manyovrni tugatgandan keyin"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 46-band",
+  "status": "draft"
+ },
+ {
+  "id": 1071,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Ogohlantiruvchi ishora berish haydovchiga nimani beradi?",
+  "options": [
+   "Ehtiyot choralarini ko'rishdan ozod qiladi",
+   "Oldin o'tish huquqini beradi",
+   "Oldin o'tish huquqini bermaydi va zaruriy ehtiyot choralarini ko'rish mas'uliyatidan ozod etmaydi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 46-band",
+  "status": "draft"
+ },
+ {
+  "id": 1072,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Tovushli ishoralar qachon qo'llanilishi mumkin?",
+  "options": [
+   "Aholi punktlaridan tashqarida boshqa haydovchilarni quvib o'tish haqida ogohlantirish uchun va YTH ning oldini olish zarur bo'lgan hollarda",
+   "Istalgan joyda, haydovchining xohishiga ko'ra",
+   "Aholi punktlarida ham, salomlashish uchun"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 48-band",
+  "status": "draft"
+ },
+ {
+  "id": 1073,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Burilishni ko'rsatuvchi barcha yorug'lik ishoralarining bir vaqtda miltillashi nima hisoblanadi?",
+  "options": [
+   "Chapga burilish ishorasi",
+   "Avariya (xavf-xatar) ishorasi",
+   "Quvib o'tish ishorasi",
+   "To'xtash ishorasi"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 50-band",
+  "status": "draft"
+ },
+ {
+  "id": 1074,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Quyidagi hollarning qaysi birida avariya ishorasi yoqilishi kerak?",
+  "options": [
+   "Quvib o'tishni boshlashda",
+   "Shatakka olishda (shatakka olingan mexanik transport vositasida)",
+   "Chorrahada chapga burilishda",
+   "Aholi punktida harakatlanishda"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 50-band",
+  "status": "draft"
+ },
+ {
+  "id": 1075,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Fara chiroqlari yorug'ligi haydovchining ko'zini qamashtirganda nima yoqilishi kerak?",
+  "options": [
+   "Hech narsa yoqilmaydi",
+   "Avariya ishorasi",
+   "Orqa tuman chirog'i"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 50-band",
+  "status": "draft"
+ },
+ {
+  "id": 1076,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Avariya sababli to'xtash belgisi aholi punktlaridan tashqarida transport vositasidan kamida necha metr masofada o'rnatilishi kerak?",
+  "options": [
+   "15 metr",
+   "50 metr",
+   "30 metr",
+   "10 metr"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 51-band",
+  "status": "draft"
+ },
+ {
+  "id": 1077,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Avariya sababli to'xtash belgisi aholi punktlarida transport vositasidan kamida necha metr masofada o'rnatilishi kerak?",
+  "options": [
+   "10 metr",
+   "5 metr",
+   "30 metr",
+   "15 metr"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 51-band",
+  "status": "draft"
+ },
+ {
+  "id": 1078,
+  "topic": "Manyovr qilish",
+  "text": "Yondosh hududdan yo'lga chiqayotgan haydovchi kimga yo'l berishi kerak?",
+  "options": [
+   "Faqat tez tibbiy yordam mashinasiga",
+   "Hech kimga, chunki yo'lga chiqayotgan imtiyozga ega",
+   "Yo'lda harakatlanayotgan piyodalar va transport vositalariga"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 54-band",
+  "status": "draft"
+ },
+ {
+  "id": 1079,
+  "topic": "Manyovr qilish",
+  "text": "Bir yo'nalishda harakatlanayotgan transport vositalari bir vaqtda qayta tizilayotganda haydovchi kimga yo'l berishi kerak?",
+  "options": [
+   "O'ng tomondagi transport vositasiga",
+   "Chap tomondagi transport vositasiga",
+   "Kattaroq transport vositasiga"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 55-band",
+  "status": "draft"
+ },
+ {
+  "id": 1080,
+  "topic": "Manyovr qilish",
+  "text": "Burilish (qayrilib olish)dan oldin haydovchi qatnov qismida qaysi holatni egallashi shart?",
+  "options": [
+   "Shu yo'nalishda harakatlanish uchun mo'ljallangan qatnov qismining eng chetki holatini",
+   "Har doim chap chetki holatni",
+   "Qatnov qismining o'rtasidagi holatni"
+  ],
+  "answer": 0,
+  "explain": "Aylanma harakatli chorrahaga kirish uchun burilish bundan mustasno.",
+  "source": "YHQ, 56-band",
+  "status": "draft"
+ },
+ {
+  "id": 1081,
+  "topic": "Manyovr qilish",
+  "text": "O'ngga burilishda transport vositasi qanday joylashishi kerak?",
+  "options": [
+   "Iloji boricha qatnov qismining o'ng chetiga yaqinroq",
+   "Qarama-qarshi yo'nalish tasmasida",
+   "Qatnov qismining chap chetiga yaqinroq"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 57-band",
+  "status": "draft"
+ },
+ {
+  "id": 1082,
+  "topic": "Manyovr qilish",
+  "text": "Chorrahadan tashqarida chapga burilish yoki qayrilib olishda relssiz transport vositasi haydovchisi kimga yo'l berishi shart?",
+  "options": [
+   "Faqat orqadan kelayotgan transport vositalariga",
+   "Hech kimga",
+   "Qarama-qarshi yo'nalishdan harakatlanayotgan transport vositalariga va bir yo'nalishdagi tramvayga"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 59-band",
+  "status": "draft"
+ },
+ {
+  "id": 1083,
+  "topic": "Manyovr qilish",
+  "text": "Yo'nalishlar kesishganda va o'tish navbati Qoidalarda ko'zda tutilmagan hollarda haydovchi kimga yo'l berishi kerak?",
+  "options": [
+   "Tezroq yaqinlashayotgan transport vositasiga",
+   "Chap tomondan yaqinlashayotgan transport vositasiga",
+   "O'ng tomondan yaqinlashayotgan transport vositasiga"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 60-band",
+  "status": "draft"
+ },
+ {
+  "id": 1084,
+  "topic": "Manyovr qilish",
+  "text": "Sekinlashish bo'lagi bo'lgan yo'lda burilmoqchi bo'lgan haydovchi nima qilishi kerak?",
+  "options": [
+   "Asosiy tasmada tezlikni keskin kamaytirib, so'ng burilishi",
+   "O'z vaqtida shu tasmaga qayta tizilib, tezlikni faqat unda kamaytirishi",
+   "Qayta tizilmasdan chapga burilishi"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 61-band",
+  "status": "draft"
+ },
+ {
+  "id": 1085,
+  "topic": "Manyovr qilish",
+  "text": "Yo'lning ko'rinishi biror yo'nalishda necha metrdan kam bo'lgan joylarda qayrilib olish taqiqlanadi?",
+  "options": [
+   "50 metrdan",
+   "100 metrdan",
+   "300 metrdan",
+   "200 metrdan"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 62-band",
+  "status": "draft"
+ },
+ {
+  "id": 1086,
+  "topic": "Manyovr qilish",
+  "text": "Quyidagi joylarning qaysi birida qayrilib olish taqiqlanadi?",
+  "options": [
+   "Piyodalar o'tish joylarida",
+   "Yo'l yoqasi kengaygan joyda",
+   "Keng va bo'sh, belgi bilan taqiqlanmagan to'g'ri yo'l qismida"
+  ],
+  "answer": 0,
+  "explain": "Shuningdek: tunnellarda, ko'priklarda, temir yo'l kesishmalarida.",
+  "source": "YHQ, 62-band",
+  "status": "draft"
+ },
+ {
+  "id": 1087,
+  "topic": "Manyovr qilish",
+  "text": "Orqaga harakatlanish qayerlarda taqiqlanadi?",
+  "options": [
+   "Faqat tunda",
+   "Hech qayerda taqiqlanmaydi",
+   "Chorrahalarda va qayrilib olish mumkin bo'lmagan joylarda"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 63-band",
+  "status": "draft"
+ },
+ {
+  "id": 1088,
+  "topic": "Transport vositalarining joylashuvi",
+  "text": "To'rt va undan ortiq tasmali, ikki tomonlama harakatli yo'llarda qarama-qarshi yo'nalish tasmalariga chiqish:",
+  "options": [
+   "Taqiqlanadi",
+   "Quvib o'tish uchun ruxsat etiladi",
+   "Tezlikni oshirish uchun ruxsat etiladi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 65-band",
+  "status": "draft"
+ },
+ {
+  "id": 1089,
+  "topic": "Transport vositalarining joylashuvi",
+  "text": "Uch tasmali, ikki tomonlama harakatli yo'lda o'rta qatorga qachon chiqishga ruxsat etiladi?",
+  "options": [
+   "Faqat quvib o'tish, aylanib o'tish, chapga burilish va qayrilib olish uchun",
+   "Faqat to'xtash uchun",
+   "Doimiy harakatlanish uchun"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 66-band",
+  "status": "draft"
+ },
+ {
+  "id": 1090,
+  "topic": "Transport vositalarining joylashuvi",
+  "text": "Aholi punktlaridan tashqaridagi yo'llarda haydovchilar qaysi qatorda harakatlanishlari kerak?",
+  "options": [
+   "Istalgan qatorda",
+   "Mumkin qadar qatnov qismining o'ng chetiga yaqinroq; o'ng tasmalar bo'sh bo'lganda chap tasmalarni egallash taqiqlanadi",
+   "Doim eng chap qatorda"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 67-band",
+  "status": "draft"
+ },
+ {
+  "id": 1091,
+  "topic": "Transport vositalarining joylashuvi",
+  "text": "Tezligini soatiga necha kilometrdan oshirishi mumkin bo'lmagan transport vositalari asosan chetki o'ng qatorda harakatlanishi kerak?",
+  "options": [
+   "80 km/soat",
+   "20 km/soat",
+   "40 km/soat",
+   "60 km/soat"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 68-band",
+  "status": "draft"
+ },
+ {
+  "id": 1092,
+  "topic": "Transport vositalarining joylashuvi",
+  "text": "Qatnov qismi yo'l chiziqlari bilan tasmalarga ajratilgan bo'lsa, harakatlanish qanday amalga oshiriladi?",
+  "options": [
+   "Qat'iy belgilangan tasmalarda; faqat qayta tizilishda uzuq-uzuq chiziqlarni bosib o'tish mumkin",
+   "Istalgan tasmada, chiziqlarni bosib o'tgan holda",
+   "Faqat o'ng tasmada"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 70-band",
+  "status": "draft"
+ },
+ {
+  "id": 1093,
+  "topic": "Transport vositalarining joylashuvi",
+  "text": "Mexanik transport vositalarining ajratuvchi mintaqalar, yo'l yoqalari, trotuarlar va piyodalar yo'lkalarida harakatlanishi:",
+  "options": [
+   "Taqiqlanadi (Qoidalarda ko'zda tutilgan istisnolardan tashqari)",
+   "Faqat yengil avtomobillarga ruxsat etiladi",
+   "Doim ruxsat etiladi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 72-band",
+  "status": "draft"
+ },
+ {
+  "id": 1094,
+  "topic": "Transport vositalarining joylashuvi",
+  "text": "Haydovchi oldinda harakatlanayotgan transport vositasi keskin tormoz berganda to'qnashmaslik uchun nimani saqlashi kerak?",
+  "options": [
+   "To'qnashib ketmaslik kafolatini beradigan oraliq masofani",
+   "Iloji boricha yaqin masofani",
+   "Faqat yonlama oraliqni"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 73-band",
+  "status": "draft"
+ },
+ {
+  "id": 1095,
+  "topic": "Transport vositalarining joylashuvi",
+  "text": "Qarama-qarshi yo'nalishlarda harakatlanish to'siq sababli qiyin bo'lsa, kim yo'l berishi kerak?",
+  "options": [
+   "To'siq bo'lmagan tomondagi haydovchi",
+   "Kichik transport vositasining haydovchisi",
+   "To'siq o'z tomonida bo'lgan haydovchi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 75-band",
+  "status": "draft"
+ },
+ {
+  "id": 1096,
+  "topic": "Transport vositalarining joylashuvi",
+  "text": "Boshqa belgilar bo'lmasa, ajratuvchi bo'lagi yo'q ikki tomonlama yo'ldagi xavfsizlik orolchalari va ustunchalar qaysi tomondan aylanib o'tiladi?",
+  "options": [
+   "O'ng tomondan",
+   "Chap tomondan",
+   "Qaysi tomondan qulay bo'lsa"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 76-band",
+  "status": "draft"
+ },
+ {
+  "id": 1097,
+  "topic": "Harakatlanish tezligi",
+  "text": "Aholi punktlarida transport vositalarining tezligi umumiy qoidaga ko'ra soatiga necha kilometrdan oshmasligi kerak?",
+  "options": [
+   "60 km/soat",
+   "50 km/soat",
+   "90 km/soat",
+   "70 km/soat"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 78-band",
+  "status": "draft"
+ },
+ {
+  "id": 1098,
+  "topic": "Harakatlanish tezligi",
+  "text": "Maktab va maktabgacha ta'lim tashkilotlariga yetmasdan va o'tib ketib 300 metrdan kam masofada (tegishli belgi o'rnatilgan joylarda) tezlik soatiga necha kilometrdan oshmasligi kerak?",
+  "options": [
+   "30 km/soat",
+   "40 km/soat",
+   "60 km/soat",
+   "20 km/soat"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 78-band",
+  "status": "draft"
+ },
+ {
+  "id": 1099,
+  "topic": "Harakatlanish tezligi",
+  "text": "Turar joy dahalari va yondosh hududlarda (uy-joy binolari orasidagi yer uchastkasida) tezlik soatiga necha kilometrdan oshmasligi kerak?",
+  "options": [
+   "10 km/soat",
+   "30 km/soat",
+   "20 km/soat",
+   "40 km/soat"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 78-band",
+  "status": "draft"
+ },
+ {
+  "id": 1100,
+  "topic": "Harakatlanish tezligi",
+  "text": "Nukus va Toshkent shaharlarida, viloyat va tuman markazlarida, shuningdek shaharlar hududlarida tezlik soatiga necha kilometrdan oshmasligi kerak?",
+  "options": [
+   "40 km/soat",
+   "80 km/soat",
+   "70 km/soat",
+   "60 km/soat"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 78-band",
+  "status": "draft"
+ },
+ {
+  "id": 1101,
+  "topic": "Harakatlanish tezligi",
+  "text": "Aholi punktlaridan tashqarida yengil avtomobillar tezligi soatiga necha kilometrdan oshmasligi kerak?",
+  "options": [
+   "100 km/soat",
+   "120 km/soat",
+   "80 km/soat",
+   "90 km/soat"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 79-band",
+  "status": "draft"
+ },
+ {
+  "id": 1102,
+  "topic": "Harakatlanish tezligi",
+  "text": "Aholi punktlaridan tashqarida shaharlararo qatnaydigan avtobus va mikroavtobuslar tezligi soatiga necha kilometrdan oshmasligi kerak?",
+  "options": [
+   "110 km/soat",
+   "70 km/soat",
+   "90 km/soat",
+   "100 km/soat"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 79-band",
+  "status": "draft"
+ },
+ {
+  "id": 1103,
+  "topic": "Harakatlanish tezligi",
+  "text": "Aholi punktlaridan tashqarida ruxsat etilgan to'liq vazni 3,5 tonnadan ortiq yuk avtomobillari tezligi soatiga necha kilometrdan oshmasligi kerak?",
+  "options": [
+   "80 km/soat",
+   "60 km/soat",
+   "90 km/soat",
+   "100 km/soat"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 79-band",
+  "status": "draft"
+ },
+ {
+  "id": 1104,
+  "topic": "Harakatlanish tezligi",
+  "text": "Aholi punktlaridan tashqarida tirkamali yuk avtomobillari tezligi soatiga necha kilometrdan oshmasligi kerak?",
+  "options": [
+   "70 km/soat",
+   "90 km/soat",
+   "50 km/soat",
+   "80 km/soat"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 79-band",
+  "status": "draft"
+ },
+ {
+  "id": 1105,
+  "topic": "Harakatlanish tezligi",
+  "text": "Yukxonasida odam tashiyotgan yuk avtomobillari har qanday yo'llarda soatiga necha kilometrdan oshmagan tezlikda harakatlanishi mumkin?",
+  "options": [
+   "70 km/soat",
+   "40 km/soat",
+   "80 km/soat",
+   "60 km/soat"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 80-band",
+  "status": "draft"
+ },
+ {
+  "id": 1106,
+  "topic": "Harakatlanish tezligi",
+  "text": "Bolalar guruhini tashkiliy tashiyotgan transport vositalari tezligi soatiga necha kilometrdan oshmasligi kerak?",
+  "options": [
+   "60 km/soat",
+   "70 km/soat",
+   "40 km/soat",
+   "90 km/soat"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 80-band",
+  "status": "draft"
+ },
+ {
+  "id": 1107,
+  "topic": "Harakatlanish tezligi",
+  "text": "Mexanik transport vositalarini shatakka olgan transport vositalari tezligi soatiga necha kilometrdan oshmasligi kerak?",
+  "options": [
+   "50 km/soat",
+   "60 km/soat",
+   "70 km/soat",
+   "30 km/soat"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 80-band",
+  "status": "draft"
+ },
+ {
+  "id": 1108,
+  "topic": "Harakatlanish tezligi",
+  "text": "Haydovchiga quyidagilardan qaysi biri taqiqlanadi?",
+  "options": [
+   "Xavfsiz oraliq masofani saqlash",
+   "Yo'l sharoitini hisobga olib tezlikni kamaytirish",
+   "YTH ning oldini olish zarurati bo'lmaganda keskin tormoz berish"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 81-band",
+  "status": "draft"
+ },
+ {
+  "id": 1109,
+  "topic": "Harakatlanish tezligi",
+  "text": "Haydovchi tezlikni tanlashda nimalarni hisobga olishi kerak?",
+  "options": [
+   "Faqat boshqa haydovchilarning tezligini",
+   "Serqatnovlikni, transport vositasi va yukning xususiyati hamda holatini, yo'l va ob-havo sharoitini, harakat yo'nalishidagi ko'rinishni",
+   "Faqat transport vositasining rusumini"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 77-band",
+  "status": "draft"
+ },
+ {
+  "id": 1110,
+  "topic": "Quvib o'tish",
+  "text": "Quvib o'tishni boshlashdan oldin haydovchi nimaga ishonch hosil qilishi shart?",
+  "options": [
+   "Faqat oldindagi haydovchi yo'l berishiga",
+   "Orqadagi transport vositasi quvib o'tishni boshlamaganiga, oldindagisi quvib o'tish yoki chapga burilish ishorasini bermayotganiga va bo'lak yetarlicha masofada bo'shligiga",
+   "Faqat tezligi 100 km/soatdan yuqori ekaniga"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 82-band",
+  "status": "draft"
+ },
+ {
+  "id": 1111,
+  "topic": "Quvib o'tish",
+  "text": "Chapga burilish ishorasini berib, burilishga kirishgan transport vositasini qaysi tomondan o'zib ketish kerak?",
+  "options": [
+   "Chap tomondan",
+   "O'zib ketish taqiqlanadi",
+   "O'ng tomondan"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 83-band",
+  "status": "draft"
+ },
+ {
+  "id": 1112,
+  "topic": "Quvib o'tish",
+  "text": "Quvib o'tilayotgan transport vositasining haydovchisiga nima taqiqlanadi?",
+  "options": [
+   "Chap burilish ishorasini yoqish",
+   "Tezlikni oshirish yoki boshqa xatti-harakatlar bilan quvib o'tishga to'sqinlik qilish",
+   "Tezlikni pasaytirish"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 84-band",
+  "status": "draft"
+ },
+ {
+  "id": 1113,
+  "topic": "Quvib o'tish",
+  "text": "Quyidagi joylarning qaysi birida quvib o'tish taqiqlanadi?",
+  "options": [
+   "Aholi punktidan tashqaridagi, ko'rinishi yaxshi tekis yo'l qismida",
+   "Ikki tasmali yo'lning belgisiz to'g'ri qismida",
+   "Piyodalar o'tish joylarida"
+  ],
+  "answer": 2,
+  "explain": "Shuningdek: tartibga solingan chorrahalarda, ko'priklarda, yo'l o'tkazgichlarda, temir yo'l kesishmalarida.",
+  "source": "YHQ, 86-band",
+  "status": "draft"
+ },
+ {
+  "id": 1114,
+  "topic": "Quvib o'tish",
+  "text": "Temir yo'l kesishmasigacha necha metrdan kam masofa qolganda quvib o'tish taqiqlanadi?",
+  "options": [
+   "100 metrdan",
+   "200 metrdan",
+   "50 metrdan",
+   "30 metrdan"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 86-band",
+  "status": "draft"
+ },
+ {
+  "id": 1115,
+  "topic": "Quvib o'tish",
+  "text": "Quvib o'tishni tugallagandan so'ng haydovchi nima qilishi shart?",
+  "options": [
+   "Ilgari egallagan harakatlanish yo'nalishiga qaytishi",
+   "Tezlikni keskin oshirishi",
+   "Chap tasmada harakatni davom ettirishi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 85-band",
+  "status": "draft"
+ },
+ {
+  "id": 1116,
+  "topic": "Quvib o'tish",
+  "text": "Tepalikning oxirida va yo'lning ko'rinishi cheklangan joylarda quvib o'tish:",
+  "options": [
+   "Taqiqlanadi",
+   "Ruxsat etiladi",
+   "Faqat tungi vaqtda ruxsat etiladi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 86-band",
+  "status": "draft"
+ },
+ {
+  "id": 1117,
+  "topic": "Quvib o'tish",
+  "text": "Aholi punktlaridan tashqarida sekin harakatlanadigan, katta hajmli transport vositasining haydovchisi orqasida transport vositalari to'planib qolsa, nima qilishi kerak?",
+  "options": [
+   "Yo'lning o'rtasida harakatni davom ettirishi",
+   "Iloji boricha yo'lning o'ng tomoniga olishi, zarur bo'lsa to'xtab, orqasidagilarni o'tkazib yuborishi",
+   "Tezlikni yanada kamaytirishi"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 87-band",
+  "status": "draft"
+ },
+ {
+  "id": 1118,
+  "topic": "To'xtash va to'xtab turish",
+  "text": "Transport vositalariga yo'lning qaysi tomonida to'xtash va to'xtab turishga ruxsat etiladi?",
+  "options": [
+   "Ajratuvchi mintaqada",
+   "Yo'lning o'ng tomonida, yo'l yoqasida, u bo'lmasa qatnov qismining chetida",
+   "Qatnov qismining o'rtasida",
+   "Yo'lning chap tomonida"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 88-band",
+  "status": "draft"
+ },
+ {
+  "id": 1119,
+  "topic": "To'xtash va to'xtab turish",
+  "text": "Aholi punktlarida yo'lning chap tomonida to'xtash va to'xtab turishga qachon ruxsat etiladi?",
+  "options": [
+   "Istalgan yo'lda",
+   "Hech qachon ruxsat etilmaydi",
+   "O'rtada tramvay yo'li bo'lmagan, har yo'nalishda bittadan tasmasi bor yo'llarda hamda bir tomonlama harakatli yo'llarda"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 88-band",
+  "status": "draft"
+ },
+ {
+  "id": 1120,
+  "topic": "To'xtash va to'xtab turish",
+  "text": "Qatnov qismida kajavasi bo'lmagan ikki g'ildirakli transport vositalarini qanday joylashtirishga ruxsat etiladi?",
+  "options": [
+   "Qatnov qismining o'rtasida ko'ndalang",
+   "Boshqalarga xalaqit bermaslik sharti bilan, qatnov qismi chetiga parallel ravishda ikki qator qilib",
+   "Faqat bir qator bo'lib"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 89-band",
+  "status": "draft"
+ },
+ {
+  "id": 1121,
+  "topic": "To'xtash va to'xtab turish",
+  "text": "Aholi punktlaridan tashqarida tunab qolish yoki dam olish uchun uzoq vaqt to'xtab turishga qayerda ruxsat etiladi?",
+  "options": [
+   "Yo'lning qatnov qismida",
+   "Buning uchun ko'zda tutilgan maydonchalarda yoki yo'ldan tashqarida",
+   "Yo'l yoqasida"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 90-band",
+  "status": "draft"
+ },
+ {
+  "id": 1122,
+  "topic": "To'xtash va to'xtab turish",
+  "text": "Transport vositalarining qayrilib olish joylarida va unga necha metr yetmasdan yoki o'tib to'xtash taqiqlanadi?",
+  "options": [
+   "10 metr",
+   "30 metr",
+   "15 metr",
+   "50 metr"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, VM 172-son qarori 1-band g)",
+  "status": "draft"
+ },
+ {
+  "id": 1123,
+  "topic": "Asosiy atamalar",
+  "text": "Transport vositasi harakatini necha daqiqagacha bo'lgan muddatga to'xtatish «to'xtash» deyiladi?",
+  "options": [
+   "30 daqiqagacha",
+   "10 daqiqagacha",
+   "5 daqiqagacha",
+   "15 daqiqagacha"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 1124,
+  "topic": "Asosiy atamalar",
+  "text": "«To'xtab turish» nima?",
+  "options": [
+   "Svetoforda kutib turish",
+   "Harakatni 10 daqiqagacha to'xtatish",
+   "Yo'lovchi chiqarish/tushirish yoki yuk ortish/tushirish bilan bog'liq bo'lmagan hollarda harakatni 10 daqiqadan ko'proq vaqtga atayin to'xtatish"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 1125,
+  "topic": "Asosiy atamalar",
+  "text": "Yo'lning ko'rinish masofasi necha metrdan kam bo'lsa, «yetarlicha ko'rinmaslik» deb hisoblanadi?",
+  "options": [
+   "300 metrdan",
+   "200 metrdan",
+   "500 metrdan",
+   "100 metrdan"
+  ],
+  "answer": 0,
+  "explain": "Yomg'ir, qor, tuman va kunning g'ira-shira vaqtida.",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 1126,
+  "topic": "Asosiy atamalar",
+  "text": "«Sutkaning qorong'i vaqti» qaysi oraliq?",
+  "options": [
+   "Soat 21:00 dan 05:00 gacha",
+   "Kechki g'ira-shiraning oxiridan tonggi g'ira-shiraning boshlanishigacha bo'lgan vaqt",
+   "Soat 18:00 dan 06:00 gacha"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 1127,
+  "topic": "Asosiy atamalar",
+  "text": "Mopedning dvigateli ish hajmi qanday bo'ladi?",
+  "options": [
+   "50 sm³ va undan ortiq",
+   "25 sm³ gacha",
+   "25 sm³ va undan ortiq, lekin 50 sm³ dan oshmaydigan",
+   "125 sm³ gacha"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 1128,
+  "topic": "Asosiy atamalar",
+  "text": "Mototsiklning dvigateli ish hajmi va konstruktiv tezligi qanday?",
+  "options": [
+   "Ish hajmi 25 sm³ gacha, tezligi 25 km/soatgacha",
+   "Ish hajmi 25 dan 50 sm³ gacha",
+   "Ish hajmi 50 sm³ va undan oshadigan, konstruktiv tezligi soatiga 50 km va undan oshadigan"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 1129,
+  "topic": "Asosiy atamalar",
+  "text": "Quyidagilardan qaysi biri chorraha hisoblanmaydi?",
+  "options": [
+   "Yondosh hududlardan chiqish joylari",
+   "Yo'llarning bir sathda kesishadigan joyi",
+   "Yo'llarning bir sathda tutashadigan joyi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 1130,
+  "topic": "Asosiy atamalar",
+  "text": "Aholi punkti qanday hudud?",
+  "options": [
+   "Kirish va chiqish yo'llari 5.22 — 5.25 yo'l belgilari bilan belgilangan hudud",
+   "Faqat shahar markazi",
+   "Faqat 5.1 belgisi bilan belgilangan hudud"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 1131,
+  "topic": "Asosiy atamalar",
+  "text": "Avtomagistral qaysi yo'l belgisi bilan belgilanadi?",
+  "options": [
+   "5.22",
+   "5.16.1",
+   "2.1",
+   "5.1"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 1132,
+  "topic": "Asosiy atamalar",
+  "text": "Piyodalar o'tish joyi qaysi belgilar va chiziqlar bilan belgilanadi?",
+  "options": [
+   "Faqat 5.1 belgisi bilan",
+   "5.16.1, 5.16.2, 5.48 yo'l belgilari hamda 1.14.1 — 1.14.4 yoki 1.29.1 — 1.29.3 yo'l chiziqlari bilan",
+   "5.22 — 5.25 belgilari bilan"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 1133,
+  "topic": "Asosiy atamalar",
+  "text": "Dvigatelli velosipedning nominal quvvati va tezligi qanday bo'lishi mumkin?",
+  "options": [
+   "Nominal quvvati 0,25 kW dan, tezligi soatiga 25 km dan oshmaydigan",
+   "4 kW gacha",
+   "1 kW gacha va 50 km/soatgacha"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 1134,
+  "topic": "Asosiy atamalar",
+  "text": "Velosipedchilar qorong'i vaqtda velosiped yo'lkasi bo'lmaganda qatnov qismida harakatlanayotganda nima kiyishlari shart?",
+  "options": [
+   "Oq rangli kiyim",
+   "Hech qanday maxsus kiyim talab etilmaydi",
+   "Nur qaytargichli kamzul yoki nur qaytaruvchi elementlari bor ustki kiyim"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, VM 172-son qarori 1-band d)",
+  "status": "draft"
+ },
+ {
+  "id": 1135,
+  "topic": "Asosiy atamalar",
+  "text": "Yengil avtomobil tomiga o'rnatilgan yukxonadagi yukning balandligi qancha bo'lganda yuk tashishga yo'l qo'yiladi?",
+  "options": [
+   "1 metrdan oshmasa",
+   "2 metrdan oshmasa",
+   "0,5 metrdan oshmasa"
+  ],
+  "answer": 0,
+  "explain": "Uzunligi avtomobil gabaritidan 0,5 metrdan oshmasligi ham shart.",
+  "source": "YHQ, VM 172-son qarori 1-band b)",
+  "status": "draft"
+ },
+ {
+  "id": 1136,
+  "topic": "Individual harakatlanish vositalari",
+  "text": "Individual harakatlanish vositalarini (masalan, elektrosamokat) umumiy qoidaga ko'ra necha yoshdan kichik shaxslar boshqarishi taqiqlanadi?",
+  "options": [
+   "16 yoshdan",
+   "12 yoshdan",
+   "18 yoshdan",
+   "14 yoshdan"
+  ],
+  "answer": 3,
+  "explain": "Turar joy dahalari, istirohat bog'lari, bolalar maydonchalari va yopiq hududlar bundan mustasno.",
+  "source": "YHQ, 121-band",
+  "status": "draft"
+ },
+ {
+  "id": 1137,
+  "topic": "Individual harakatlanish vositalari",
+  "text": "Individual harakatlanish vositasini boshqarayotgan shaxs trotuar, piyodalar yo'lkasi yoki piyoda va velosiped yo'lkasida soatiga necha kilometrdan oshmagan tezlikda harakatlanishi kerak?",
+  "options": [
+   "5 km/soat",
+   "10 km/soat",
+   "20 km/soat",
+   "25 km/soat"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 122-band",
+  "status": "draft"
+ },
+ {
+  "id": 1138,
+  "topic": "Individual harakatlanish vositalari",
+  "text": "Individual harakatlanish vositalarini boshqaruvchi shaxslarga quyidagilardan qaysi biri taqiqlanadi?",
+  "options": [
+   "Odam tashish",
+   "Velosipedchilar tasmasi bor joyda shu tasmadan harakatlanish",
+   "Harakat yo'nalishi bo'yicha harakatlanish"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 121-band",
+  "status": "draft"
+ },
+ {
+  "id": 1139,
+  "topic": "Individual harakatlanish vositalari",
+  "text": "Individual harakatlanish vositasini boshqargan shaxslarning harakati piyodalarning harakati bilan birlashganda kim ustunlikka ega?",
+  "options": [
+   "Tezroq harakatlanayotgan",
+   "Individual harakatlanish vositasini boshqargan shaxs",
+   "Piyodalar"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 123-band",
+  "status": "draft"
+ },
+ {
+  "id": 1140,
+  "topic": "Individual harakatlanish vositalari",
+  "text": "Velosipedchilar uchun tasma yoki piyoda va velosiped yo'lkasi mavjud bo'lganda individual harakatlanish vositasini boshqaruvchi qayerdan harakatlanishi kerak?",
+  "options": [
+   "Yo'l yoqasidan",
+   "Shu tasma yoki yo'lkadan (harakatlanish imkoni bo'lmagan holatlardan tashqari)",
+   "Yo'lning qatnov qismidan"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 121-band",
+  "status": "draft"
+ },
+ {
+  "id": 1141,
+  "topic": "Individual harakatlanish vositalari",
+  "text": "Trotuar va yo'lkalar bo'lmaganda individual harakatlanish vositasini boshqargan shaxs yo'lning o'ng chetida soatiga necha kilometrdan oshmagan tezlikda harakatlanishi kerak?",
+  "options": [
+   "10 km/soat",
+   "30 km/soat",
+   "20 km/soat",
+   "40 km/soat"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 122-band",
+  "status": "draft"
+ },
+ {
+  "id": 2001,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "Yo'l harakati ishtirokchilari nimalarni bilishlari va ularga amal qilishlari shart?",
+  "options": [
+   "Faqat svetofor ishoralarini",
+   "Faqat tartibga soluvchi ko'rsatmalarini",
+   "Faqat yo'l belgilarini",
+   "Qonunni, Qoidalarni, svetofor ishoralarini, yo'l belgilari va chiziqlarini hamda tartibga soluvchilar ko'rsatmalarini"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 3-band",
+  "status": "draft"
+ },
+ {
+  "id": 2002,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "O'zbekiston Respublikasi yo'llarida transport vositalarining harakatlanish tartibi qanday?",
+  "options": [
+   "Haydovchi o'zi tanlaydi",
+   "Chap tomonlama",
+   "Yo'l turiga qarab o'zgaradi",
+   "O'ng tomonlama"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 2-band",
+  "status": "draft"
+ },
+ {
+  "id": 2003,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "Yo'l qoplamasini buzish, yo'l belgilari va svetoforlarni o'zboshimchalik bilan olib tashlash yoki to'sib qo'yish kimlarga taqiqlanadi?",
+  "options": [
+   "Faqat haydovchilarga",
+   "Hech kimga taqiqlanmaydi",
+   "Faqat piyodalarga",
+   "Tegishli vakolatga ega bo'lmagan yuridik va jismoniy shaxslarga"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 4-band",
+  "status": "draft"
+ },
+ {
+  "id": 2004,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "Yo'lda harakatlanishga to'sqinlik yuzaga keltirgan shaxs uni bartaraf etish imkoni bo'lmasa, nima qilishi shart?",
+  "options": [
+   "Joyni tark etib, hech kimga aytmasligi",
+   "Ertasi kuni xabar berishi",
+   "Faqat to'siqni ko'rsatib qo'yib ketishi",
+   "Mavjud vositalar bilan boshqa ishtirokchilarni xavf haqida ogohlantirishi va IIOga xabar berishi"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 4-band",
+  "status": "draft"
+ },
+ {
+  "id": 2005,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "Qoidalarni buzgan shaxslar qanday javobgarlikka tortiladi?",
+  "options": [
+   "Faqat og'zaki ogohlantiriladi",
+   "Javobgarlikka tortilmaydi",
+   "O'zbekiston Respublikasining qonun hujjatlariga muvofiq",
+   "Faqat tashkilot ichki tartibiga muvofiq"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 5-band",
+  "status": "draft"
+ },
+ {
+  "id": 2006,
+  "topic": "Asosiy atamalar",
+  "text": "Avtomagistral qanday yo'l?",
+  "options": [
+   "Shahar ichidagi har qanday keng ko'cha",
+   "Uch va undan ortiq tasmali har qanday yo'l",
+   "5.1 belgisi bilan belgilangan, qatnov qismlari ajratuvchi mintaqa bilan ajratilgan va boshqa yo'llar bilan bir sathda kesishmaydigan yo'l",
+   "Tuproqli yo'l"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2007,
+  "topic": "Asosiy atamalar",
+  "text": "Ajratuvchi mintaqa nima?",
+  "options": [
+   "Piyodalar o'tish joyi",
+   "Yo'lning yonma-yon qatnov qismlarini ajratuvchi, transport harakati yoki to'xtashi uchun mo'ljallanmagan ko'tarilgan yoki maysazor, ariq, to'siq bilan ajratilgan qismi",
+   "Yo'l yoqasi",
+   "Yo'lning chetidagi trotuar"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2008,
+  "topic": "Asosiy atamalar",
+  "text": "Asosiy yo'l nima?",
+  "options": [
+   "Tuproqli yoki shag'alli yo'lga nisbatan qattiq qoplamali yo'l yoki 2.1, 2.3.1 — 2.3.3, 5.1 belgilari bilan belgilangan yo'l",
+   "Faqat to'rt tasmali yo'l",
+   "Faqat shahar markazidagi yo'l",
+   "Faqat eng keng yo'l"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2009,
+  "topic": "Asosiy atamalar",
+  "text": "Bolalar guruhini tashkiliy tashish deb nima tushuniladi?",
+  "options": [
+   "Ikki bolani yengil avtomobilda tashish",
+   "Yo'nalishli transport vositalariga daxli bo'lmagan avtobusda sakkiz va undan ortiq bolalarning tashkil etilgan tartibda tashilishi",
+   "Bolalarni piyoda olib yurish",
+   "Bitta bolani yo'nalishli taksida tashish"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2010,
+  "topic": "Asosiy atamalar",
+  "text": "Velosiped yo'lkasi nima?",
+  "options": [
+   "Alohida yo'l yoki konstruktiv jihatdan qatnov qismi va trotuardan ajratilgan, tegishli belgi bilan belgilangan yo'l qismi",
+   "Faqat yo'l chizig'i bilan ajratilgan tasma",
+   "Piyodalar o'tish joyi",
+   "Yo'l yoqasining boshqa nomi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2011,
+  "topic": "Asosiy atamalar",
+  "text": "Velosipedchilar uchun tasma nima?",
+  "options": [
+   "Yo'l yoqasi",
+   "Yo'lning boshqa qismlaridan yo'l chizig'i bilan ajratilgan, tegishli belgilar bilan belgilangan va faqat velosiped hamda individual harakatlanish vositalari uchun mo'ljallangan qism",
+   "Tramvay yo'li",
+   "Trotuarning bir qismi"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2012,
+  "topic": "Asosiy atamalar",
+  "text": "Yondosh hudud nima?",
+  "options": [
+   "Ajratuvchi mintaqa",
+   "Trotuar",
+   "Shahar markazidagi chorraha",
+   "Bevosita yo'lga tutashgan va transport vositalari o'tib ketishi uchun mo'ljallanmagan hudud (hovlilar, mahallalar, turar joy dahalari, to'xtab turish joylari, yonilg'i quyish shoxobchalari va shunga o'xshashlar)"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2013,
+  "topic": "Asosiy atamalar",
+  "text": "Imtiyoz nima?",
+  "options": [
+   "Istalgan joyda to'xtash huquqi",
+   "Yuqori tezlikda harakatlanish huquqi",
+   "Mo'ljallangan yo'nalishda boshqa yo'l harakati ishtirokchilariga nisbatan oldin harakatlanish huquqi",
+   "Svetoforga amal qilmaslik huquqi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2014,
+  "topic": "Asosiy atamalar",
+  "text": "Yo'l berish (to'sqinlik qilmaslik) nimani bildiradi?",
+  "options": [
+   "Imtiyozli ishtirokchining yo'nalishi yoki tezligini o'zgartirishga majbur etishi mumkin bo'lgan hollarda harakatni davom ettirmaslik yoki boshlamaslik",
+   "Tezlikni oshirib, oldin o'tib ketish",
+   "To'xtamasdan o'tib ketish",
+   "Faqat signal berish"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2015,
+  "topic": "Asosiy atamalar",
+  "text": "Qaysi transport vositalari yo'nalishli transport vositalari hisoblanadi?",
+  "options": [
+   "Faqat tramvaylar",
+   "Faqat yuk avtomobillari",
+   "Barcha yengil avtomobillar",
+   "Belgilangan yo'nalishi va bekatlari bor, yo'lovchi tashishga mo'ljallangan umumiy foydalanishdagi (trolleybus, tramvay, avtobus, yo'nalishli taksi)"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2016,
+  "topic": "Asosiy atamalar",
+  "text": "Yo'l-transport hodisasi nima?",
+  "options": [
+   "Transport vositasining yo'lda harakatlanishi jarayonida va uning ishtirokida sodir bo'lgan, odamlar vafot etgan yoki sog'lig'iga zarar yetkazilgan, transport vositalari, inshootlar, yuklar shikastlangan yoxud boshqa moddiy zarar yetkazilgan hodisa",
+   "Faqat ikki avtomobilning to'qnashuvi",
+   "Faqat piyodani urib yuborish",
+   "Faqat avtomobilning ishdan chiqishi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2017,
+  "topic": "Asosiy atamalar",
+  "text": "Kichik hajmdagi mototransport vositasining eng yuqori konstruktiv tezligi soatiga necha kilometrdan oshmasligi kerak?",
+  "options": [
+   "25 km/soat",
+   "50 km/soat",
+   "10 km/soat",
+   "40 km/soat"
+  ],
+  "answer": 0,
+  "explain": "Ish hajmi 25 sm³ gacha yoki quvvati 0,25 kW gacha bo'lishi kerak.",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2018,
+  "topic": "Asosiy atamalar",
+  "text": "Majburiy to'xtash nima?",
+  "options": [
+   "Dam olish uchun to'xtash",
+   "Yo'l belgisi talabi bilan to'xtash",
+   "Texnik nuqson, yuk, haydovchi yoki yo'lovchining holati, to'siq yoki ob-havo tufayli xavf yuzaga kelganda harakatni to'xtatish; bu qoidabuzarlik deb e'tirof etilmaydi",
+   "Haydovchining xohishiga ko'ra to'xtashi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2019,
+  "topic": "Asosiy atamalar",
+  "text": "Mexanik transport vositasi nima?",
+  "options": [
+   "Odam kuchi bilan harakatlanadigan transport vositasi",
+   "Faqat mototsikl",
+   "Dvigatel bilan harakatga keltiriladigan transport vositasi (barcha traktor va o'zi yurar moslamalar ham)",
+   "Faqat avtomobil"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2020,
+  "topic": "Asosiy atamalar",
+  "text": "Quyidagilardan qaysi biri piyodalarga tenglashtiriladi?",
+  "options": [
+   "Velosiped, moped, mototsikl yoki individual harakatlanish vositasini yetaklab ketayotgan shaxs",
+   "Yo'nalishli transport haydovchisi",
+   "Avtomobil haydovchisi",
+   "Mototsiklni boshqarayotgan shaxs"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2021,
+  "topic": "Asosiy atamalar",
+  "text": "Piyodalar o'tish joyining kengligi yo'l chiziqlari bo'lmaganda nima bilan aniqlanadi?",
+  "options": [
+   "5.16.1 va 5.16.2 yo'l belgilari orasidagi masofa bilan",
+   "Piyodalar soni bilan",
+   "Haydovchi o'zi belgilaydi",
+   "Qatnov qismining kengligi bilan"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2022,
+  "topic": "Asosiy atamalar",
+  "text": "Reversiv harakatlanish nima?",
+  "options": [
+   "Qatnov qismining maxsus ajratilgan, 5.35 — 5.37 belgilari va 1.9 chiziq bilan belgilangan, reversiv svetofor o'rnatilgan bo'lagida harakat yo'nalishining qarama-qarshi tomonga o'zgarishi",
+   "Tramvay yo'lida harakatlanish",
+   "Tasmaning tunda yopilishi",
+   "Bir tomonlama harakat"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2023,
+  "topic": "Asosiy atamalar",
+  "text": "Ruxsat etilgan to'liq vazn nima?",
+  "options": [
+   "Jihozlangan transport vositasining ishlab chiqargan korxona belgilagan yuk, haydovchi va yo'lovchilari bilan birgalikdagi eng yuqori vazni",
+   "Faqat transport vositasining o'z vazni",
+   "Faqat yukning vazni",
+   "Transport vositasining haqiqiy vazni"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2024,
+  "topic": "Asosiy atamalar",
+  "text": "Skuter qanday transport vositasi?",
+  "options": [
+   "Dvigatelsiz samokat",
+   "Quvvati 4 kW va undan ortiq, tezligi 50 km/soat va undan ortiq transport vositasi",
+   "Elektrodvigatel quvvati 0,25 kW va undan ortiq, lekin 4 kW dan oshmaydigan, konstruktiv tezligi 25 km/soatdan ortiq, 50 dan oshmaydigan ikki yoki uch (to'rt) g'ildirakli transport vositasi",
+   "Tezligi 25 km/soatdan oshmaydigan velosiped"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2025,
+  "topic": "Asosiy atamalar",
+  "text": "Elektromototsikl qanday transport vositasi?",
+  "options": [
+   "Tezligi 25 km/soatdan oshmaydigan skuter",
+   "Quvvati 0,25 kW gacha bo'lgan transport vositasi",
+   "Faqat uch g'ildirakli yuk tashuvchi transport vositasi",
+   "Elektrodvigatel quvvati 4 kW va undan oshadigan, konstruktiv tezligi 50 km/soat va undan oshadigan ikki yoki uch (to'rt) g'ildirakli transport vositasi"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2026,
+  "topic": "Asosiy atamalar",
+  "text": "Tartibga soluvchi bo'lib kimlar hisoblanadi?",
+  "options": [
+   "Faqat piyodalar",
+   "Faqat avtomaktab ustozlari",
+   "Har qanday yo'l harakati ishtirokchisi",
+   "DYHXX va harbiy avtomobil nazorati xodimi, vakolatli yo'ldan foydalanish xizmati xodimlari, temir yo'l kesishmasi va sol kechuvlaridagi navbatchilar hamda jamoatchilik vakillari"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2027,
+  "topic": "Asosiy atamalar",
+  "text": "Tartibga soluvchi nimaga ega bo'lishi shart?",
+  "options": [
+   "Faqat hushtakka",
+   "Hech narsaga ega bo'lishi shart emas",
+   "Faqat shaxsiy avtomobilga",
+   "Maxsus kiyim va (yoki) taniqlik belgisiga (qo'l bog'ichi, jezl, qizil ishorali yorug'lik qaytargich, qizil chiroq yoki bayroqcha)"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2028,
+  "topic": "Asosiy atamalar",
+  "text": "Tezkor va maxsus xizmatlarning transport vositasi qanday jihozlangan bo'ladi?",
+  "options": [
+   "Faqat zarg'aldoq mayoqcha bilan",
+   "Oq rangli mayoqcha bilan",
+   "Ko'k yoki qizil yoxud ko'k va qizil rangli yaltiroq mayoqcha bilan jihozlangan hamda maxsus rangli bo'yoq sxemalar va yozuvlar bilan belgilangan",
+   "Faqat sirena bilan"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2029,
+  "topic": "Asosiy atamalar",
+  "text": "Transport vositalarining tashkiliy jamlanmasi nima?",
+  "options": [
+   "Har qanday tirbandlik",
+   "Oldida ko'k/qizil mayoqchasi yoqilgan transport vositasi kuzatib borayotgan, bir-birining ketidan, bitta bo'lakda, yaqinni yorituvchi faralar yoqilgan holda kelayotgan uch va undan ortiq mexanik transport vositalari guruhi",
+   "Ikki avtomobil guruhi",
+   "Piyodalar guruhi"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2030,
+  "topic": "Asosiy atamalar",
+  "text": "Quyidagilardan qaysi biri to'siq hisoblanmaydi?",
+  "options": [
+   "Tirbandlik tufayli yoki Qoidalar talabiga binoan tasmada to'xtagan transport vositasi",
+   "Yiqilgan daraxt",
+   "Buzilib qolgan transport vositasi",
+   "Tushib qolgan yuk"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2031,
+  "topic": "Asosiy atamalar",
+  "text": "Xavfsizlik orolchasi nima?",
+  "options": [
+   "Harakatlanish tasmalarini ajratuvchi, bordyur toshlari bilan ko'tarilgan yoki texnik vositalar bilan belgilangan, piyodalar talab qilinganda to'xtab o'tishi uchun mo'ljallangan yo'l qurilmasi",
+   "Trotuar",
+   "To'xtab turish joyi",
+   "Piyodalar yo'lkasi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2032,
+  "topic": "Asosiy atamalar",
+  "text": "Chorraha chegarasi nima bilan aniqlanadi?",
+  "options": [
+   "Yo'l belgilari bilan",
+   "Svetofor o'rnatilgan joy bilan",
+   "Piyodalar o'tish joyi bilan",
+   "Uning markazidan qatnov qismlari oxiridagi qarama-qarshi tomonlarning eng uzoq burilish joylarini tutashtiruvchi tasavvur qilinadigan chiziqlar bilan"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2033,
+  "topic": "Asosiy atamalar",
+  "text": "Qayta tizilish nima?",
+  "options": [
+   "Qarama-qarshi yo'nalishga burilish",
+   "Qarama-qarshi tasmaga chiqib, so'ng qaytish",
+   "Dastlabki harakat yo'nalishini saqlagan holda o'z harakatlanish tasmasidan boshqa harakatlanish qatoriga o'tish",
+   "Transport vositasini to'xtatish"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2034,
+  "topic": "Asosiy atamalar",
+  "text": "Quvib o'tish nima?",
+  "options": [
+   "To'xtab turgan transport vositasini aylanib o'tish",
+   "Faqat tezlikni oshirish",
+   "O'z tasmasidan boshqa qatorga o'tish",
+   "Bir yoki bir nechta transport vositasini qarama-qarshi yo'nalishda harakatlanish uchun mo'ljallangan tasmaga chiqib, so'ng ilgari egallagan qatoriga qaytib o'tish bilan bog'liq o'zib ketish"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2035,
+  "topic": "Asosiy atamalar",
+  "text": "Haydovchi deb kim hisoblanadi?",
+  "options": [
+   "Faqat transport vositasi egasi",
+   "Faqat guvohnomasi bor shaxs",
+   "Transport vositasini boshqaruvchi shaxs; boshqarish o'rgatilayotganda o'rgatuvchi shaxs ham haydovchi hisoblanadi",
+   "Faqat yo'lovchi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2036,
+  "topic": "Asosiy atamalar",
+  "text": "Ot aravani boshqarayotgan shaxslar kimga tenglashtiriladi?",
+  "options": [
+   "Velosipedchiga",
+   "Piyodaga",
+   "Yo'lovchiga",
+   "Haydovchiga"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2037,
+  "topic": "Asosiy atamalar",
+  "text": "Elektromobil nima?",
+  "options": [
+   "Ichki yonuv dvigateli va elektr motori birga ishlaydigan transport vositasi",
+   "Tashqi elektr manbaidan quvvatlanib, faqat elektr dvigateli bilan harakatlanadigan transport vositasi",
+   "Elektrli velosiped",
+   "Faqat quyosh batareyasida ishlaydigan transport vositasi"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2038,
+  "topic": "Asosiy atamalar",
+  "text": "Gibrid avtomobil nima?",
+  "options": [
+   "Faqat gaz yoqilg'isida ishlovchi avtomobil",
+   "Tirkamali yuk avtomobili",
+   "Faqat elektr dvigateli bilan harakatlanuvchi avtomobil",
+   "Ichki yonuv dvigateli va (yoki) tashqi elektr manbai orqali zaryadlanuvchi elektr motor yordamida harakatlanuvchi transport vositasi"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2039,
+  "topic": "Asosiy atamalar",
+  "text": "Yo'l yoqasi nima?",
+  "options": [
+   "Trotuar",
+   "Qatnov qismiga u bilan bir sathda tutashgan, qoplama turi bilan farq qiladigan yoki 1.1 chiziq bilan ajratilgan, harakatlanish, to'xtash va to'xtab turish uchun mo'ljallangan bo'lak",
+   "Ajratuvchi mintaqa",
+   "Velosiped yo'lkasi"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2040,
+  "topic": "Asosiy atamalar",
+  "text": "Trotuar nima?",
+  "options": [
+   "Qatnov qismiga tutashgan yoki undan maysazor, ariq, maxsus to'siqlar bilan ajratilgan va piyodalar harakatlanishi uchun mo'ljallangan yo'l qismi",
+   "Yo'l yoqasi",
+   "Ajratuvchi mintaqa",
+   "Xavfsizlik orolchasi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2041,
+  "topic": "Asosiy atamalar",
+  "text": "Qatnov qismi nima?",
+  "options": [
+   "Faqat tramvay yo'li",
+   "Yo'l yoqasi bilan birga barcha qismlar",
+   "Yo'lning trotuar qismi",
+   "Yo'lning relssiz transport vositalari harakatlanishi uchun mo'ljallangan qismi"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2042,
+  "topic": "Asosiy atamalar",
+  "text": "Tirkama nima?",
+  "options": [
+   "Dvigatelli yuk avtomobili",
+   "Mexanik transport vositasi tarkibida harakatlanishga mo'ljallangan va dvigatel bilan jihozlanmagan transport vositasi (yarim tirkama va uzaytiriladigan tirkamalar ham)",
+   "Faqat velosiped",
+   "Faqat avtobus"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2043,
+  "topic": "Asosiy atamalar",
+  "text": "Yo'lovchi deb kim hisoblanadi?",
+  "options": [
+   "Faqat orqa o'rindiqdagi shaxs",
+   "Transport vositasidagi (haydovchidan tashqari) shaxs, shuningdek, unga kirayotgan yoki undan chiqayotgan shaxs",
+   "Faqat pul to'laydigan shaxs",
+   "Transport vositasi yonidan o'tayotgan piyoda"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 6-band",
+  "status": "draft"
+ },
+ {
+  "id": 2044,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "Haydovchilik guvohnomasi belgilangan tartibda olib qo'yilgan hollarda haydovchi nimani yonida olib yurishi shart?",
+  "options": [
+   "Faqat texnik pasportni",
+   "Faqat sug'urta polisini",
+   "Hech narsa shart emas",
+   "Vaqtinchalik ruxsatnomani (va shaxsini tasdiqlovchi hujjatni)"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 7-band",
+  "status": "draft"
+ },
+ {
+  "id": 2045,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "Qoraytirilgan oynali yengil avtomobil uchun DYHXX xodimlari planshet orqali nimani tekshiradi?",
+  "options": [
+   "Avtomaktab sertifikatini",
+   "Avtotransport vositasi oynalarining tusini o'zgartirishga (qoraytirishga) ruxsatnomani",
+   "Yo'l varaqasini",
+   "Haydovchining tibbiy ma'lumotnomasini"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 7-band",
+  "status": "draft"
+ },
+ {
+  "id": 2046,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "«CE» toifasi qaysi transport vositalarini boshqarish huquqini beradi?",
+  "options": [
+   "Tirkamasining ruxsat etilgan to'liq vazni 750 kg dan ortiq bo'lgan «C» toifadagi avtotransport vositalarini",
+   "Tirkamasiz «B» toifadagi avtomobillarni",
+   "Mototsikllarni",
+   "Tirkamasining vazni 750 kg gacha bo'lgan «D» toifadagi avtobuslarni"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 8-band",
+  "status": "draft"
+ },
+ {
+  "id": 2047,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "«DE» toifasi qaysi transport vositalarini boshqarish huquqini beradi?",
+  "options": [
+   "Faqat mototsikllarni",
+   "Tirkamasining ruxsat etilgan to'liq vazni 750 kg dan ortiq bo'lgan «D» toifadagi avtotransport vositalarini hamda bo'g'imli avtobuslarni",
+   "Tirkamasiz «C» toifadagi yuk avtomobillarini",
+   "Faqat yengil avtomobillarni"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 8-band",
+  "status": "draft"
+ },
+ {
+  "id": 2048,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "Trolleybus haydovchisiga qaysi transport vositasini boshqarishga ruxsat etiladi?",
+  "options": [
+   "Faqat trolleybusni",
+   "Istalgan transport vositasini",
+   "Trolleybus va tramvayni",
+   "Trolleybus va avtobusni"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 8-band",
+  "status": "draft"
+ },
+ {
+  "id": 2049,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "Xorijiy davlat fuqarosi boshqaruvidagi mexanik transport vositasi haydovchisining yonida nima bo'lishi shart?",
+  "options": [
+   "Faqat sug'urta polisi",
+   "Faqat pasport",
+   "Konvensiya talablariga mos haydovchilik guvohnomasi va transport vositasining ro'yxatdan o'tganligi haqidagi hujjat",
+   "Hech qanday hujjat shart emas"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 10-band",
+  "status": "draft"
+ },
+ {
+  "id": 2050,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "Quyidagi shaxslardan qaysi biriga xavfsizlik kamarini taqmaslikka ruxsat beriladi?",
+  "options": [
+   "Tajribali haydovchiga",
+   "Shahar ichida haydayotgan haydovchiga",
+   "Salomatligi kamar taqish imkonini bermaydigan bemorga (tibbiy ma'lumotnoma mavjud bo'lganda)",
+   "Tungi vaqtda haydayotgan haydovchiga"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 9-band",
+  "status": "draft"
+ },
+ {
+  "id": 2051,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "O'quv-mashq transport vositasini o'quvchi boshqarayotgan vaqtda kim xavfsizlik kamarini taqmasligi mumkin?",
+  "options": [
+   "Amaliy mashg'ulotlar instruktori",
+   "Haydovchi-o'quvchi",
+   "Old o'rindiqdagi har qanday yo'lovchi",
+   "Orqa o'rindiqdagi har qanday yo'lovchi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 9-band",
+  "status": "draft"
+ },
+ {
+  "id": 2052,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Haydovchi quyidagilarning qaysi birida transport vositasini foydalanish uchun berishi shart?",
+  "options": [
+   "Yo'lakay yo'nalishda kechiktirib bo'lmaydigan tibbiy yordam ko'rsatishga ketayotgan tibbiyot xodimlariga",
+   "Har qanday notanish shaxs so'raganda",
+   "Hech qachon berishi shart emas",
+   "Faqat pul to'langanda"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 11-band",
+  "status": "draft"
+ },
+ {
+  "id": 2053,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Quyidagi transport vositalaridan qaysi birlaridan foydalanishga yo'l qo'yilmaydi?",
+  "options": [
+   "Xorijiy davlatlarning diplomatik, konsullik vakolatxonalariga va xalqaro tashkilotlarga tegishli transport vositalaridan",
+   "Yuk avtomobillaridan",
+   "Maktab avtobuslaridan",
+   "Taksilardan"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 11-band",
+  "status": "draft"
+ },
+ {
+  "id": 2054,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Haydovchi harakatlanish jarayonida kimlarga nisbatan alohida ehtiyotkorlik choralarini ko'rishi kerak?",
+  "options": [
+   "Faqat tezkor xizmat transport vositalariga",
+   "Piyodalar, bolalar, nogironlar, qariyalar, individual harakatlanish vositalari va velosipedchilarga",
+   "Faqat mototsiklchilarga",
+   "Faqat yuk avtomobillariga"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 11-band",
+  "status": "draft"
+ },
+ {
+  "id": 2055,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Quyidagi shaxslardan qaysi biriga transport vositasini boshqarish uchun topshirish taqiqlanadi?",
+  "options": [
+   "Faqat piyodalarga",
+   "Mast holatdagi yoki tegishli toifadagi haydovchilik guvohnomasi bo'lmagan shaxsga",
+   "Hech kimga taqiqlanmaydi",
+   "Tegishli toifadagi guvohnomasi bor va sug'urta polisida ko'rsatilgan shaxsga"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 12-band",
+  "status": "draft"
+ },
+ {
+  "id": 2056,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Avtopoyezd tarkibida qaysi nosozlik bilan transport vositasini boshqarish taqiqlanadi?",
+  "options": [
+   "Ulagich moslamasi nosoz bo'lganda",
+   "Tirkama bo'yog'i ko'chganda",
+   "Hech qanday nosozlikda taqiqlanmaydi",
+   "Tirkamada konditsioner bo'lmaganda"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 12-band",
+  "status": "draft"
+ },
+ {
+  "id": 2057,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Sutkaning qorong'i vaqtida yoki ko'rinish cheklangan vaziyatda qaysi chiroqlar yonmasa, transport vositasini boshqarish taqiqlanadi?",
+  "options": [
+   "Faqat bagaj chirog'i",
+   "Fara chiroqlari va orqa gabarit fara chiroqlari",
+   "Faqat salon chirog'i",
+   "Faqat avariya ishorasi"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 12-band",
+  "status": "draft"
+ },
+ {
+  "id": 2058,
+  "topic": "Haydovchining majburiyatlari va taqiqlari",
+  "text": "Haydovchiga transport vositalarining tashkiliy jamlanmasi va piyodalar jamlanmalariga nisbatan nima taqiqlanadi?",
+  "options": [
+   "Ularni kutib turish",
+   "Ularga yo'l berish",
+   "Ularning harakatiga xalaqit berish va ular orasiga kirish",
+   "Ularni uzoqdan kuzatish"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 12-band",
+  "status": "draft"
+ },
+ {
+  "id": 2059,
+  "topic": "Individual harakatlanish vositalari",
+  "text": "Individual harakatlanish vositasi bilan qanday yuk tashish taqiqlanadi?",
+  "options": [
+   "Faqat 1 kg dan og'ir yukni",
+   "Har qanday yukni",
+   "Uzunligi yoki kengligi 0,5 metrdan ortiq tashqariga chiqadigan yoki boshqaruvga xalaqit beradigan yuklarni",
+   "Yuk tashish hech qachon taqiqlanmaydi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 121-band",
+  "status": "draft"
+ },
+ {
+  "id": 2060,
+  "topic": "Individual harakatlanish vositalari",
+  "text": "Individual harakatlanish vositasini boshqargan shaxs piyodalar o'tish joyida qanday harakatlanishi kerak?",
+  "options": [
+   "To'xtamasdan o'tishi mumkin",
+   "Faqat uni yetaklab o'tishi kerak (minib harakatlanish taqiqlanadi)",
+   "Minib, past tezlikda o'tishi mumkin",
+   "Signal berib o'tishi mumkin"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 121-band",
+  "status": "draft"
+ },
+ {
+  "id": 2061,
+  "topic": "Individual harakatlanish vositalari",
+  "text": "Bir yoki bir nechta individual harakatlanish vositasini shatakka olish:",
+  "options": [
+   "Taqiqlanadi",
+   "Ruxsat etiladi",
+   "Faqat velosiped yo'lkasida ruxsat etiladi",
+   "Faqat kunduzi ruxsat etiladi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 121-band",
+  "status": "draft"
+ },
+ {
+  "id": 2062,
+  "topic": "Individual harakatlanish vositalari",
+  "text": "Rul boshqaruvi mavjud individual harakatlanish vositalarida nima taqiqlanadi?",
+  "options": [
+   "Rulni ushlamasdan yoki bir qo'lda ushlab harakatlanish",
+   "Ikkala qo'lda rulni ushlab harakatlanish",
+   "Nur qaytargichlar bilan jihozlanish",
+   "Chiroqlarni yoqish"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 121-band",
+  "status": "draft"
+ },
+ {
+  "id": 2063,
+  "topic": "Individual harakatlanish vositalari",
+  "text": "Turar joy dahalaridan chiqishda individual harakatlanish vositasini boshqargan shaxs nima qilishi kerak?",
+  "options": [
+   "Tezlikni oshirishi",
+   "Signal berib o'tib ketishi",
+   "Boshqa harakat qatnashchilariga yo'l berishi",
+   "Imtiyozga ega bo'lishi"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 122-band",
+  "status": "draft"
+ },
+ {
+  "id": 2064,
+  "topic": "Individual harakatlanish vositalari",
+  "text": "Individual harakatlanish vositasining harakati piyodalarga xavf tug'dirsa yoki xalaqit bersa, boshqaruvchi nima qilishi kerak?",
+  "options": [
+   "Tezlikni oshirishi",
+   "Tushib, uni yetaklashi yoki tezlikni piyodalar tezligidan oshmaydigan darajaga pasaytirib davom ettirishi",
+   "Harakatini o'zgartirmasdan davom ettirishi",
+   "Signal berib o'tib ketishi"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 123-band",
+  "status": "draft"
+ },
+ {
+  "id": 2065,
+  "topic": "Individual harakatlanish vositalari",
+  "text": "Velosipedchilar uchun tasma yoki piyoda va velosiped yo'lkasida individual harakatlanish vositasida harakatlanayotgan shaxslar boshqa mexanik transport vositalariga nisbatan:",
+  "options": [
+   "Imtiyozga ega emas",
+   "Faqat kunduzi imtiyozga ega",
+   "Ustunlikka (imtiyozga) ega",
+   "Yo'l berishi shart"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 123-band",
+  "status": "draft"
+ },
+ {
+  "id": 2066,
+  "topic": "Yo'l-transport hodisasi",
+  "text": "YTH da jarohat olganlarni shoshilinch hollarda qanday jo'natish mumkin?",
+  "options": [
+   "Faqat piyoda olib borish",
+   "Faqat ommaviy transportda",
+   "Faqat hodisa joyida qoldirib ketish",
+   "Yo'lakay transport vositasida, buning imkoni bo'lmasa o'z transport vositasida yaqin tibbiyot muassasasiga olib borish"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 13-band",
+  "status": "draft"
+ },
+ {
+  "id": 2067,
+  "topic": "Yo'l-transport hodisasi",
+  "text": "Jarohatlanganni tibbiyot muassasasiga olib borgan haydovchi u yerda nima qilishi shart?",
+  "options": [
+   "Ma'lumot bermay ketishi",
+   "Hodisa joyiga qaytmasligi",
+   "Faqat ismini aytib ketishi",
+   "O'z ismi-familiyasi va transport vositasining davlat raqam belgisi haqida axborot berishi hamda hodisa joyiga qaytib kelishi"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 13-band",
+  "status": "draft"
+ },
+ {
+  "id": 2068,
+  "topic": "Yo'l-transport hodisasi",
+  "text": "YTH da boshqa transport vositalarining harakatiga to'sqinlik bo'lsa, haydovchi nima qilishi kerak?",
+  "options": [
+   "Buyumlarni yo'q qilishi",
+   "Qatnov qismini bo'shatmasdan IIOni kutishi",
+   "Qayd etmasdan darhol transport vositasini olib ketishi",
+   "Avval joylashuvni, buyumlar va izlarni guvohlar ishtirokida, foto yoki video bilan qayd etib, so'ngra qatnov qismini bo'shatishi"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 13-band",
+  "status": "draft"
+ },
+ {
+  "id": 2069,
+  "topic": "Piyodalar",
+  "text": "Hajmi katta yuk olib ketayotgan piyodalarning trotuardan harakatlanishi boshqa piyodalarga xalaqit bersa, ular nima qilishi mumkin?",
+  "options": [
+   "Qatnov qismining chetidan harakatlanishi mumkin",
+   "Trotuar o'rtasida to'xtashi",
+   "Yukni tashlab ketishi",
+   "Qatnov qismining o'rtasidan yurishi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 15-band",
+  "status": "draft"
+ },
+ {
+  "id": 2070,
+  "topic": "Piyodalar",
+  "text": "Piyodalar yo'lkasida, trotuarda va yo'l yoqasida nima o'rnatish taqiqlanadi?",
+  "options": [
+   "Yo'l belgilari",
+   "Svetoforlar",
+   "Piyodalarning harakatlanishiga xalaqit beradigan qurilma va to'siqlar",
+   "Yoritish chiroqlari"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 15-band",
+  "status": "draft"
+ },
+ {
+  "id": 2071,
+  "topic": "Piyodalar",
+  "text": "Piyodalar tashkiliy jamlanmasining oldi va orqasida kimlar bo'lishi shart?",
+  "options": [
+   "Hech kim shart emas",
+   "Faqat bitta kuzatuvchi oldinda",
+   "Faqat hushtak chaluvchi shaxslar",
+   "Chap tomondan qizil bayroqcha (qorong'i vaqtda oldinda oq, orqada qizil chiroq) ko'targan kuzatuvchilar"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 16-band",
+  "status": "draft"
+ },
+ {
+  "id": 2072,
+  "topic": "Piyodalar",
+  "text": "Yo'l harakati tartibga solingan joylarda piyodalar kimning ishoralariga amal qilishlari kerak?",
+  "options": [
+   "O'z xohishiga ko'ra",
+   "Faqat haydovchilarning ishoralariga",
+   "Tartibga soluvchi yoki piyodalar svetoforining, ular bo'lmasa transport svetoforining ishoralariga",
+   "Faqat yo'l belgilariga"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 18-band",
+  "status": "draft"
+ },
+ {
+  "id": 2073,
+  "topic": "Piyodalar",
+  "text": "Ko'rinishni cheklovchi to'xtab turgan transport vositasi panasidan piyoda qachon chiqishi mumkin?",
+  "options": [
+   "Hech qachon chiqmasligi kerak",
+   "Yaqinlashayotgan transport vositalari yo'qligiga ishonch hosil qilgandan keyin",
+   "Signal berib",
+   "Darhol, tez yugurib"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 19-band",
+  "status": "draft"
+ },
+ {
+  "id": 2074,
+  "topic": "Piyodalar",
+  "text": "Qatnov qismiga chiqqan piyodalar yo'l harakati xavfsizligi bilan bog'liq bo'lmasa, nima qilishlari kerak?",
+  "options": [
+   "Qatnov qismining o'rtasida to'xtashlari",
+   "Telefonda gaplashishlari",
+   "Ushlanib qolmasliklari va to'xtamasliklari kerak",
+   "Orqaga qaytishlari"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 20-band",
+  "status": "draft"
+ },
+ {
+  "id": 2075,
+  "topic": "Piyodalar",
+  "text": "Qatnov qismidan baland maydonchalari yo'q bekatda piyodalar yo'nalishli transport vositasiga chiqish uchun qatnov qismiga qachon chiqishlari mumkin?",
+  "options": [
+   "Yo'nalishli transport vositasi to'liq to'xtagandan so'ng",
+   "Haydovchiga qo'l ko'targanda",
+   "Uni uzoqdan ko'rganda",
+   "U harakatlanayotganda"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 22-band",
+  "status": "draft"
+ },
+ {
+  "id": 2076,
+  "topic": "Maxsus transport vositalari",
+  "text": "Maxsus transport vositalarining haydovchilari imtiyozdan qachon foydalanishlari mumkin?",
+  "options": [
+   "Faqat chorrahada",
+   "O'zlariga yo'l berilayotganiga ishonch hosil qilganlaridan so'nggina",
+   "Faqat tunda",
+   "Mayoqcha yoqilishi bilan darhol"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 25-band",
+  "status": "draft"
+ },
+ {
+  "id": 2077,
+  "topic": "Maxsus transport vositalari",
+  "text": "Mayoqchasini yoqib to'xtab turgan tezkor transport vositasiga yaqinlashayotgan haydovchilar zarur hollarda nima qilishlari shart?",
+  "options": [
+   "Uni quvib o'tishlari",
+   "Tezlikni darhol to'xtash imkonini beradigan darajada kamaytirishlari",
+   "Tezlikni oshirib o'tishlari",
+   "Signal berib o'tishlari"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 27-band",
+  "status": "draft"
+ },
+ {
+  "id": 2078,
+  "topic": "Maxsus transport vositalari",
+  "text": "Zarg'aldoq yoki sariq mayoqchalar qaysi hollarda yoqilgan bo'lishi kerak?",
+  "options": [
+   "Svetoforda to'xtaganda",
+   "Shahar ichida tezlikni oshirganda",
+   "Aholi punktida harakatlanganda",
+   "Yo'lda qurilish, ta'mirlash yoki tozalash ishlari olib borilayotganda"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 28-band",
+  "status": "draft"
+ },
+ {
+  "id": 2079,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Yo'naltirgich ko'rinishidagi qizil, sariq va yashil svetofor ishoralari qanday ma'noga ega?",
+  "options": [
+   "Barcha yo'nalishlarga ta'sir etadi",
+   "Faqat piyodalarga ta'sir qiladi",
+   "Doirasimon ishoralar bilan bir xil ma'noga ega, lekin faqat ko'rsatilgan yo'nalishga ta'sir etadi",
+   "Hech qanday ma'noga ega emas"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 32-band",
+  "status": "draft"
+ },
+ {
+  "id": 2080,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Chapga burilishga ruxsat beruvchi yo'naltirgich (boshqa belgi bilan taqiqlanmagan bo'lsa) yana nimaga ruxsat beradi?",
+  "options": [
+   "To'xtab turishga",
+   "Faqat o'ngga burilishga",
+   "Faqat to'g'riga harakatlanishga",
+   "Qayrilib olishga ham"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 32-band",
+  "status": "draft"
+ },
+ {
+  "id": 2081,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Svetoforning qo'shimcha tarmog'idagi ishora o'chirilgan bo'lsa, bu nimani bildiradi?",
+  "options": [
+   "Shu yo'nalishda harakatlanishga ruxsat berilganligini",
+   "Faqat piyodalarga ruxsat berilganligini",
+   "Shu tarmoq tartibga solayotgan yo'nalishda harakatlanish taqiqlanganligini",
+   "Tezlikni 40 km/soatgacha kamaytirish kerakligini"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 32-band",
+  "status": "draft"
+ },
+ {
+  "id": 2082,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "«T» harfi ko'rinishida joylashgan to'rtta doirasimon oq ishorali svetoforlar nima uchun qo'llanilishi mumkin?",
+  "options": [
+   "Piyodalar harakatini tartibga solish uchun",
+   "Yengil avtomobillar harakatini tartibga solish uchun",
+   "Velosipedchilar harakatini tartibga solish uchun",
+   "Tramvaylar hamda maxsus ajratilgan tasma bo'ylab harakatlanayotgan boshqa yo'nalishli transport vositalarining harakatini tartibga solish uchun"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 36-band",
+  "status": "draft"
+ },
+ {
+  "id": 2083,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "«T» ko'rinishidagi svetoforda pastdagi ishora o'chirilib, yuqoridagi uchta ishora bir vaqtda yonsa, nima bo'ladi?",
+  "options": [
+   "Faqat to'g'riga ruxsat beriladi",
+   "Faqat chapga ruxsat beriladi",
+   "Barcha yo'nalishlarda ruxsat beriladi",
+   "Harakatlanish taqiqlanadi"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 36-band",
+  "status": "draft"
+ },
+ {
+  "id": 2084,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Tartibga soluvchi o'ng qo'lini oldinga uzatganda, uning oldi tomonidan barcha transport vositalariga qaysi harakatga ruxsat etiladi?",
+  "options": [
+   "Faqat o'ngga",
+   "Chapga",
+   "To'g'riga",
+   "Barcha yo'nalishlarda"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 38-band",
+  "status": "draft"
+ },
+ {
+  "id": 2085,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Tartibga soluvchi o'ng qo'lini oldinga uzatganda, uning orqa tomonidan va o'ng yonidan transport vositalarining harakatlanishi:",
+  "options": [
+   "Ruxsat etiladi",
+   "Faqat o'ngga ruxsat etiladi",
+   "Faqat yuk avtomobillariga ruxsat etiladi",
+   "Barcha transport vositalariga taqiqlanadi"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 38-band",
+  "status": "draft"
+ },
+ {
+  "id": 2086,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Tartibga soluvchi o'ng qo'lini oldinga uzatganda piyodalarga qayerdan o'tishga ruxsat etiladi?",
+  "options": [
+   "Tartibga soluvchining oldi tomonida",
+   "Tartibga soluvchining orqa tomonida",
+   "Hech qayerdan o'tishga ruxsat etilmaydi",
+   "Faqat chap yonida"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 38-band",
+  "status": "draft"
+ },
+ {
+  "id": 2087,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Yo'l harakati ishtirokchilarining e'tiborini jalb etish uchun tartibga soluvchi qanday qo'shimcha ishora beradi?",
+  "options": [
+   "Faqat qo'l ishorasi bilan",
+   "Sirena bilan",
+   "Hushtak bilan",
+   "Chiroq yoqib"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 40-band",
+  "status": "draft"
+ },
+ {
+  "id": 2088,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Chorrahada to'xtash chizig'i bo'lmaganda, haydovchi taqiqlovchi ishorada qayerda to'xtashi kerak?",
+  "options": [
+   "Chorrahaning o'rtasida",
+   "Qatnov qismi bilan kesishgan joyida, piyodalarga xalaqit bermasdan",
+   "Piyodalar o'tish joyining ustida",
+   "Chorrahadan o'tib"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 41-band",
+  "status": "draft"
+ },
+ {
+  "id": 2089,
+  "topic": "Svetofor va tartibga soluvchi ishoralari",
+  "text": "Keskin tormoz bermasdan to'xtashga ulgura olmay harakatni davom ettirilganda, qatnov qismidagi piyodalar nima qilishi kerak?",
+  "options": [
+   "Joyida to'xtab turishi",
+   "Orqaga qaytishi shart",
+   "Qatnov qismini bo'shatishi, buning iloji bo'lmasa qarama-qarshi oqimlarni ajratuvchi chiziqda to'xtashi",
+   "Yo'lni yugurib kesib o'tishi shart"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 42-band",
+  "status": "draft"
+ },
+ {
+  "id": 2090,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Harakat yo'nalishini o'zgartirish haqidagi ogohlantiruvchi ishorani berishdan oldin haydovchi nimaga ishonch hosil qilishi kerak?",
+  "options": [
+   "Orqadan kelayotgan, uni quvib o'tishni yoki o'zib ketishni boshlagan va boshqa ishtirokchilarga xalaqit bermayotganiga",
+   "Faqat yo'lovchilar kamar taqqaniga",
+   "Faqat oldindagi transport vositasi yo'qligiga",
+   "Faqat chiroq ishlayotganiga"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 47-band",
+  "status": "draft"
+ },
+ {
+  "id": 2091,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Quvib o'tish haqida tovushli ishora o'rniga nimadan foydalanish mumkin?",
+  "options": [
+   "Burilish ko'rsatkichini o'chirish",
+   "Fara chiroqlarini yoqib-o'chirib ogohlantirish ishorasi berish",
+   "Avariya ishorasini yoqish",
+   "Orqa tuman chirog'ini yoqish"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 49-band",
+  "status": "draft"
+ },
+ {
+  "id": 2092,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Shatakka olingan mexanik transport vositasida avariya yorug'lik ishoralari bo'lmasa yoki ishlamasa, nima qilinadi?",
+  "options": [
+   "Faqat old qismiga belgi qo'yiladi",
+   "Uning orqa qismiga avariya sababli to'xtash belgisi o'rnatiladi",
+   "Hech narsa qilinmaydi",
+   "Shatakka olish taqiqlanadi"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 52-band",
+  "status": "draft"
+ },
+ {
+  "id": 2093,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "«Bolalarni tashish» taniqlik belgisi bor transport vositasiga bolalar chiqayotganda va undan tushayotganda nima yoqilishi kerak?",
+  "options": [
+   "Avariya ishorasi",
+   "Uzoqni yorituvchi faralar",
+   "Orqa tuman chirog'i",
+   "Hech narsa yoqilmaydi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 50-band",
+  "status": "draft"
+ },
+ {
+  "id": 2094,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Transport vositasi to'satdan to'xtab qolganda zudlik bilan nima qilish kerak?",
+  "options": [
+   "Faqat transport vositasini itarib qo'yish",
+   "Faqat tovushli ishora berish",
+   "Faqat yo'lovchilarni tushirish",
+   "Avariya yorug'lik ishorasini yoqish, u ishlamasa avariya sababli to'xtash belgisini darhol o'rnatish"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 51-band",
+  "status": "draft"
+ },
+ {
+  "id": 2095,
+  "topic": "Ogohlantiruvchi va avariya ishoralari",
+  "text": "Avariya sababli to'xtash belgisi qaysi hollarda qo'llaniladi?",
+  "options": [
+   "Yoqilg'i quyish uchun to'xtaganda",
+   "YTH sodir bo'lganda hamda to'xtash taqiqlangan va ko'rinishi cheklangan joylarda majburiy to'xtaganda",
+   "Svetoforda to'xtaganda",
+   "Yo'lovchi tushayotganda"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 51-band",
+  "status": "draft"
+ },
+ {
+  "id": 2096,
+  "topic": "Manyovr qilish",
+  "text": "Yondosh hududdan yo'lga chiqayotgan, yo'ldan chiqishda esa harakat yo'nalishini kesib o'tayotgan haydovchi kimlarga yo'l berishi kerak?",
+  "options": [
+   "Hech kimga",
+   "Faqat boshqa avtomobillarga",
+   "Faqat yuk avtomobillariga",
+   "Piyodalar va velosipedchilarga hamda yo'lda harakatlanayotgan transport vositalariga"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 54-band",
+  "status": "draft"
+ },
+ {
+  "id": 2097,
+  "topic": "Manyovr qilish",
+  "text": "Qayta tizilishda haydovchi kimga yo'l berishi kerak?",
+  "options": [
+   "Hech kimga",
+   "Qayta tizilayotgan boshqa transport vositalariga",
+   "Faqat yuk avtomobillariga",
+   "Harakatlanish yo'nalishini o'zgartirmasdan harakatlanayotgan yo'lakay transport vositalariga"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 55-band",
+  "status": "draft"
+ },
+ {
+  "id": 2098,
+  "topic": "Manyovr qilish",
+  "text": "Qatnov qismining o'rtasida u bilan bir sathda joylashgan bir yo'nalishdagi tramvay izidan chapga burilish yoki qayrilib olishga qachon ruxsat etiladi?",
+  "options": [
+   "Faqat tunda",
+   "Boshqa harakatlanish tartibi o'rnatilmagan bo'lsa va tramvay harakatiga xalaqit bermasa",
+   "Hech qachon ruxsat etilmaydi",
+   "Har doim, tramvaydan oldin o'tib"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 56-band",
+  "status": "draft"
+ },
+ {
+  "id": 2099,
+  "topic": "Manyovr qilish",
+  "text": "Transport vositasi o'zining gabaritlari tufayli burilishni belgilangan tartibda bajara olmasa, nima qilish mumkin?",
+  "options": [
+   "Burilish taqiqlanadi",
+   "Xavfsizlikni ta'minlab, boshqalarga xalaqit bermasdan talablardan chetga chiqishga yo'l qo'yiladi",
+   "Boshqa transport vositalarini to'xtatib turishi shart",
+   "Faqat tunda burilishi mumkin"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 58-band",
+  "status": "draft"
+ },
+ {
+  "id": 2100,
+  "topic": "Manyovr qilish",
+  "text": "Chorrahadan tashqarida qayrilib olishda qatnov qismining kengligi chetki chap holatdan bajarish uchun yetarli bo'lmasa:",
+  "options": [
+   "Orqaga harakatlanib bajariladi",
+   "Qatnov qismining o'ng chetidan bajarishga yo'l qo'yiladi; bunda shu va qarama-qarshi yo'nalishdagi transport vositalariga yo'l beriladi",
+   "Qayrilib olish taqiqlanadi",
+   "Baribir chap tomondan bajariladi"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 59-band",
+  "status": "draft"
+ },
+ {
+  "id": 2101,
+  "topic": "Manyovr qilish",
+  "text": "Transport vositasini orqaga harakatlantirishda zarurat tug'ilganda haydovchi nimadan foydalanishi kerak?",
+  "options": [
+   "Faqat tovushli signaldan",
+   "Boshqa shaxslarning yordamidan",
+   "Hech narsadan",
+   "Tezlikni oshirishdan"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 63-band",
+  "status": "draft"
+ },
+ {
+  "id": 2102,
+  "topic": "Transport vositalarining joylashuvi",
+  "text": "Yo'l chiziqlari va 5.8.1, 5.8.2, 5.8.7, 5.8.8 belgilari bo'lmasa, harakatlanish tasmalari sonini kim belgilaydi?",
+  "options": [
+   "IIO xodimi",
+   "Haydovchilar o'zlari, qatnov qismining kengligi, yonlama oraliq va gabaritlarni hisobga olib",
+   "Tasmalar soni hisobga olinmaydi",
+   "Faqat yo'lovchilar"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 64-band",
+  "status": "draft"
+ },
+ {
+  "id": 2103,
+  "topic": "Transport vositalarining joylashuvi",
+  "text": "Tramvay yo'li, ajratuvchi tasma yoki uzluksiz 1.1, 1.3 yo'l chiziqlari bilan ajratilgan yo'llarda qarama-qarshi yo'nalishga chiqish:",
+  "options": [
+   "Tezlikni oshirib ruxsat etiladi",
+   "Quvib o'tish uchun ruxsat etiladi",
+   "Tunda ruxsat etiladi",
+   "Taqiqlanadi"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 64-band",
+  "status": "draft"
+ },
+ {
+  "id": 2104,
+  "topic": "Transport vositalarining joylashuvi",
+  "text": "Bir yo'nalishdagi uch va undan ortiq tasmali yo'lda yuk avtomobillariga chetki chap qatorni egallashga qachon ruxsat etiladi?",
+  "options": [
+   "Faqat tungi vaqtda",
+   "Faqat chapga burilish yoki qayrilib olish uchun",
+   "Faqat quvib o'tish uchun",
+   "Har doim"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 67-band",
+  "status": "draft"
+ },
+ {
+  "id": 2105,
+  "topic": "Transport vositalarining joylashuvi",
+  "text": "Qarama-qarshi yo'nalishdagi tramvay yo'lidan harakatlanish:",
+  "options": [
+   "Taqiqlanadi",
+   "Faqat yuk avtomobillariga ruxsat etiladi",
+   "Faqat tunda ruxsat etiladi",
+   "Ruxsat etiladi"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 69-band",
+  "status": "draft"
+ },
+ {
+  "id": 2106,
+  "topic": "Transport vositalarining joylashuvi",
+  "text": "Reversiv harakatlanishli yoʻlga burilishda transport vositasi qatnov qismlari kesishmasidan chiqishda qaysi qatorni egallashi kerak?",
+  "options": [
+   "Chetki chap qatorni",
+   "Chetki o'ng qatorni",
+   "O'rta qatorni",
+   "Istalgan qatorni"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 71-band",
+  "status": "draft"
+ },
+ {
+  "id": 2107,
+  "topic": "Transport vositalarining joylashuvi",
+  "text": "Aholi yashash joylaridan tashqarida ikki tasmali ikki tomonlama yo'llarda uzunligi 7 metrdan ortiq transport vositalarining haydovchilari oldidagi transport vositasi bilan oralarida nimani saqlashlari kerak?",
+  "options": [
+   "Imkon qadar yaqin masofani",
+   "Hech qanday masofani",
+   "Faqat yonlama oraliqni",
+   "Ularni quvib o'tayotgan transport vositalari oldin egallagan qatoriga bemalol qayta tizilishi uchun imkon beradigan masofani"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 74-band",
+  "status": "draft"
+ },
+ {
+  "id": 2108,
+  "topic": "Harakatlanish tezligi",
+  "text": "Haydovchiga qaysi tezlikdan oshirish taqiqlanadi?",
+  "options": [
+   "Hech qanday tezlikdan",
+   "Faqat boshqa haydovchilar tezligidan",
+   "Transport vositasining texnik tavsifnomasida ko'rsatilgan eng yuqori tezlikdan hamda unga o'rnatilgan «Tezligi cheklangan» belgisida ko'rsatilgan tezlikdan",
+   "Faqat yo'l belgisidagi tezlikdan"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 81-band",
+  "status": "draft"
+ },
+ {
+  "id": 2109,
+  "topic": "Harakatlanish tezligi",
+  "text": "Tezlik haydovchiga nimani ta'minlashi kerak?",
+  "options": [
+   "Qoidalar talablarini bajarish uchun transport vositasining harakatlanishini doimiy nazorat qilish imkoniyatini",
+   "Boshqalardan oldin o'tish imkoniyatini",
+   "Tezlikni iloji boricha yuqori saqlashni",
+   "Yo'lovchilarni tezroq yetkazishni"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 77-band",
+  "status": "draft"
+ },
+ {
+  "id": 2110,
+  "topic": "Harakatlanish tezligi",
+  "text": "Haydovchi boshqarish paytida aniqlay oladigan xavf yuzaga kelsa, nima qilishi kerak?",
+  "options": [
+   "Faqat signal berishi",
+   "Tezlikni oshirishi",
+   "Orqaga qaytishi",
+   "Tezlikni to'liq to'xtashni ta'minlaydigan darajada kamaytirishi yoki to'siqni boshqalarga xavf tug'dirmasdan aylanib o'tishi"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 77-band",
+  "status": "draft"
+ },
+ {
+  "id": 2111,
+  "topic": "Harakatlanish tezligi",
+  "text": "Xavfli, og'ir vaznli va katta o'lchamli yuklarni tashkiliy jamlanmada tashiyotgan transport vositalari tezligi qanday belgilanadi?",
+  "options": [
+   "DYHXX bilan kelishilgan tezlikdan oshmaydigan",
+   "Cheklanmagan",
+   "Soatiga 100 km",
+   "Soatiga 90 km"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 80-band",
+  "status": "draft"
+ },
+ {
+  "id": 2112,
+  "topic": "Quvib o'tish",
+  "text": "Quvib o'tishni boshlashdan oldin haydovchi qaysi ishorani yoqishi kerak?",
+  "options": [
+   "Hech qanday ishorani",
+   "Avariya ishorasini",
+   "O'ngga burilish ishorasini",
+   "Chapga burilishni bildiruvchi ishorani"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 82-band",
+  "status": "draft"
+ },
+ {
+  "id": 2113,
+  "topic": "Quvib o'tish",
+  "text": "Quvib o'tish qaysi yo'l belgilarining ta'sir oralig'ida taqiqlanadi?",
+  "options": [
+   "4.1 va 4.2",
+   "5.1 va 5.2",
+   "2.1 va 2.2",
+   "3.20 va 3.22"
+  ],
+  "answer": 3,
+  "explain": "",
+  "source": "YHQ, 86-band",
+  "status": "draft"
+ },
+ {
+  "id": 2114,
+  "topic": "Quvib o'tish",
+  "text": "Tartibga solinmaydigan chorrahalarda quvib o'tish qaysi yo'llarda harakatlanishda taqiqlanadi?",
+  "options": [
+   "Barcha yo'llarda ruxsat etiladi",
+   "Faqat bir tasmali yo'llarda",
+   "Asosiy hisoblanmaydigan yo'llarda",
+   "Asosiy yo'llarda"
+  ],
+  "answer": 2,
+  "explain": "",
+  "source": "YHQ, 86-band",
+  "status": "draft"
+ },
+ {
+  "id": 2115,
+  "topic": "Quvib o'tish",
+  "text": "Bir yo'nalishda harakatlanayotgan relssiz transport vositalarini o'zib ketishga qaysi tomonlardan ruxsat beriladi?",
+  "options": [
+   "Har ikki tomondan",
+   "Faqat o'ng tomondan",
+   "O'zib ketish taqiqlanadi",
+   "Faqat chap tomondan"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 83-band",
+  "status": "draft"
+ },
+ {
+  "id": 2116,
+  "topic": "To'xtash va to'xtab turish",
+  "text": "Ruxsat etilgan to'liq vazni 3,5 tonnadan ko'p yuk transport vositalari bir tomonlama harakatli yo'llarning chap tomonida qachon to'xtashlari mumkin?",
+  "options": [
+   "Hech qachon",
+   "Faqat yuk ortish va tushirish uchun",
+   "Faqat dam olish uchun",
+   "Istalgan maqsadda"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 88-band",
+  "status": "draft"
+ },
+ {
+  "id": 2117,
+  "topic": "To'xtash va to'xtab turish",
+  "text": "Qatnov qismiga chegaradosh trotuar chetida to'xtab turishga qaysi transport vositalariga ruxsat etiladi?",
+  "options": [
+   "Yengil avtomobillar, mototsikllar, mopedlar, skuterlar, velosipedlar va boshqalarga — 5.15 belgisi bilan birga 7.6.x qo'shimcha belgi o'rnatilgan joylarda",
+   "Faqat avtobuslarga",
+   "Barcha transport vositalariga istalgan joyda",
+   "Yuk avtomobillari va avtobuslarga"
+  ],
+  "answer": 0,
+  "explain": "",
+  "source": "YHQ, 89-band",
+  "status": "draft"
+ },
+ {
+  "id": 2118,
+  "topic": "To'xtash va to'xtab turish",
+  "text": "Qatnov qismining ayrim kengaytirilgan va qatnov qismidan ajratilgan joylarida to'xtab turish tartibi qanday?",
+  "options": [
+   "Taqiqlanadi",
+   "Boshqa ishtirokchilarga xalaqit bermaslik sharti bilan boshqacha tartibda qo'yishga ham ruxsat etiladi",
+   "Faqat parallel qo'yiladi",
+   "Faqat bir qator qilib qo'yiladi"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, 89-band",
+  "status": "draft"
+ },
+ {
+  "id": 2119,
+  "topic": "Umumiy qoidalar va hujjatlar",
+  "text": "Yengil avtomobil tomiga o'rnatilgan yukxonadagi yukning uzunligi avtomobil gabaritidan necha metrdan oshmasligi kerak?",
+  "options": [
+   "2 metrdan",
+   "0,5 metrdan",
+   "Cheklov yo'q",
+   "1 metrdan"
+  ],
+  "answer": 1,
+  "explain": "",
+  "source": "YHQ, VM 172-son qarori 1-band b)",
+  "status": "draft"
+ }
+]
